@@ -45,7 +45,7 @@ def scrape_person(url)
     source: url.to_s,
   }
   puts data
-  # ScraperWiki.save_sqlite([:name, :term], data)
+  ScraperWiki.save_sqlite([:name, :term], data)
 end
 
 term = {
