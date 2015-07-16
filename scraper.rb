@@ -15,6 +15,11 @@ def noko_for(url)
   Nokogiri::HTML(open(url).read) 
 end
 
+def email_from(nodes)
+  return if nodes.nil? || nodes.empty?
+  nodes.first.text.sub('mailto:','')
+end
+
 def scrape_list(url)
   noko = noko_for(url)
   noko.css('.list-of-people a[href*="/person/"]/@href').each do |p|
@@ -40,7 +45,7 @@ def scrape_person(url)
     party: party,
     party_id: party_id,
     area: area ? area.text.strip : '',
-    email: sidebar.css('a[href*="mailto:"]/@href').text.sub('mailto:',''),
+    email: email_from(sidebar.css('a[href*="mailto:"]/@href')),
     term: '26',
     image: noko.css('.profile-pic img/@src').text,
     source: url.to_s,
