@@ -42,8 +42,10 @@ def scrape_person(url)
     area: area ? area.text.strip : '',
     email: sidebar.css('a[href*="mailto:"]/@href').text.sub('mailto:',''),
     term: '26',
+    image: noko.css('.profile-pic img/@src').text,
     source: url.to_s,
   }
+  data[:image] = URI.join(url, data[:image]).to_s unless data[:image].to_s.empty?
   puts data
   ScraperWiki.save_sqlite([:name, :term], data)
 end
