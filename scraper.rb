@@ -47,7 +47,7 @@ def scrape_person(url)
   sidebar = noko.css('div.constituency-party')
   area = sidebar.at_xpath('.//a[contains(@href,"/place/")]')
 
-  party_node = sidebar.at_xpath('.//a[contains(@href,"/organisation/")]')
+  party_node = sidebar.at_xpath('.//h3[text()="Party"]/following-sibling::ul/li')
   party_info = party_node ? party_node.text.strip : 'Independent (IND)'
   party, party_id = party_info.match(/(.*) \((.*)\)/).captures rescue [party_info, '']
 
@@ -61,12 +61,13 @@ def scrape_person(url)
     party: party,
     party_id: party_id,
     area: area ? area.text.strip : '',
-    email: email_from(sidebar.css('a[href*="mailto:"]/@href')),
+    email: email_from(noko.css('div.contact-actions__email a[href*="mailto:"]/@href')),
     term: '26',
     image: noko.css('.profile-pic img/@src').text,
     source: url.to_s,
   }
   data[:image] = URI.join(url, data[:image]).to_s unless data[:image].to_s.empty?
+  binding.pry
   ScraperWiki.save_sqlite([:id, :term], data)
 end
 
