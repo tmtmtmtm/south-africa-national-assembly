@@ -69,11 +69,4 @@ def scrape_person(url)
   ScraperWiki.save_sqlite([:id, :term], data)
 end
 
-term = {
-  id: '26',
-  name: '26th Parliament',
-  start_date: '2014',
-}
-ScraperWiki.save_sqlite([:id], term, 'terms')
-
 scrape_list('http://www.pa.org.za/organisation/national-assembly/people/')
