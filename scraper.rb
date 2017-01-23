@@ -62,6 +62,10 @@ class MemberPage < Scraped::HTML
     noko.css('.profile-pic img/@src').text
   end
 
+  field :identifier__peoples_assembly do
+    noko.at_css('meta[name="pombola-person-id"]/@content').text
+  end
+
   field :source do
     url.to_s
   end
