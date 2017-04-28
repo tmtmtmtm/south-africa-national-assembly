@@ -81,9 +81,9 @@ class MemberPage < Scraped::HTML
   end
 
   def party_data
-    return %w(Independent IND) unless party_node
+    return %w[Independent IND] unless party_node
     party_info = party_node.text.tidy
-    return %w(Independent IND) if party_info.include? 'Not a member of any party'
+    return %w[Independent IND] if party_info.include? 'Not a member of any party'
     party_info.match(/(.*) \((.*)\)/).captures rescue [party_info, '']
   end
 
@@ -96,7 +96,7 @@ class MemberPage < Scraped::HTML
     nodes.first.text.sub('mailto:', '')
   end
 
-  PREFIXES = %w(Adv Dr Mrs Mr Ms Professor Rev Prince).to_set
+  PREFIXES = %w[Adv Dr Mrs Mr Ms Professor Rev Prince].to_set
   def remove_prefixes(name)
     enum = name.split(/\s/).slice_before { |w| !PREFIXES.include? w.chomp('.') }
     [enum.take(1), enum.drop(1)].map { |l| l.join ' ' }
@@ -117,7 +117,7 @@ end
 def scrape_person(url)
   data = scrape(url => MemberPage).to_h
   # puts data.reject { |k, v| v.to_s.empty? }.sort_by { |k, v| k }.to_h
-  ScraperWiki.save_sqlite(%i(id term), data)
+  ScraperWiki.save_sqlite(%i[id term], data)
 end
 
 ScraperWiki.sqliteexecute('DELETE FROM data') rescue nil
