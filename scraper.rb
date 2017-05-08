@@ -10,7 +10,7 @@ require 'open-uri/cached'
 OpenURI::Cache.cache_path = '.cache'
 
 class MembersPage < Scraped::HTML
-  decorator Scraped::Response::Decorator::AbsoluteUrls
+  decorator Scraped::Response::Decorator::CleanUrls
 
   field :member_urls do
     noko.css('.list-of-people a[href*="/person/"]/@href').map(&:text)
@@ -22,7 +22,7 @@ class MembersPage < Scraped::HTML
 end
 
 class MemberPage < Scraped::HTML
-  decorator Scraped::Response::Decorator::AbsoluteUrls
+  decorator Scraped::Response::Decorator::CleanUrls
 
   field :id do
     url.to_s[/person\/(.*)\//, 1]
