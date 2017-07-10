@@ -29,4 +29,6 @@ def scrape_person(url, term:)
 end
 
 ScraperWiki.sqliteexecute('DROP TABLE data') rescue nil
-scrape_list('https://www.pa.org.za/position/member/parliament/national-assembly/?session=na26')
+25.upto(26).each do |term|
+  scrape_list("https://www.pa.org.za/position/member/parliament/national-assembly/?session=na#{term}")
+end
