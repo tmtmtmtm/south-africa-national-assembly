@@ -29,4 +29,4 @@ def scrape_person(url)
 end
 
 ScraperWiki.sqliteexecute('DROP TABLE data') rescue nil
-scrape_list('http://www.pa.org.za/organisation/national-assembly/people/')
+scrape_list('https://www.pa.org.za/organisation/national-assembly/people/')
