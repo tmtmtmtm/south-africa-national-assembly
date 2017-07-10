@@ -35,10 +35,6 @@ class MemberPage < Scraped::HTML
     email_from(noko.css('div.contact-actions__email a[href*="mailto:"]/@href'))
   end
 
-  field :term do
-    '26'
-  end
-
   field :image do
     noko.css('.profile-pic img/@src').text
   end
