@@ -16,8 +16,9 @@ def scrape(h)
   klass.new(response: Scraped::Request.new(url: url).response)
 end
 
-def list_data(list_url)
-  scrape(list_url => MembersPage).member_urls.map { |url| person_data(url) }
+def scrape_list(list_url)
+  page = scrape(list_url => MembersPage)
+  page.member_urls.each { |url| scrape_person(url) }
   scrape_list(page.next_page) unless page.next_page.to_s.empty?
 end
 
@@ -28,4 +29,4 @@ def scrape_person(url)
 end
 
 ScraperWiki.sqliteexecute('DROP TABLE data') rescue nil
-scrape_list('https://www.pa.org.za/organisation/national-assembly/people/')
+scrape_list('http://www.pa.org.za/organisation/national-assembly/people/')
