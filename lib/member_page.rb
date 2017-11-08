@@ -10,11 +10,11 @@ class MemberPage < Scraped::HTML
   end
 
   field :name do
-    name_data.last
+    name_data.name
   end
 
   field :honorific_prefix do
-    name_data.first
+    name_data.prefix
   end
 
   field :party do
@@ -69,17 +69,11 @@ class MemberPage < Scraped::HTML
   end
 
   def name_data
-    remove_prefixes(noko.css('div.title-space h1').text.gsub(/[[:space:]]+/, ' ').tidy)
+    fragment(noko.css('div.title-space h1') => MemberName)
   end
 
   def email_from(nodes)
     return if nodes.nil? || nodes.empty?
     nodes.first.text.sub('mailto:', '')
-  end
-
-  PREFIXES = %w[Adv Dr Mrs Mr Ms Professor Rev Prince].to_set
-  def remove_prefixes(name)
-    enum = name.split(/\s/).slice_before { |w| !PREFIXES.include? w.chomp('.') }
-    [enum.take(1), enum.drop(1)].map { |l| l.join ' ' }
   end
 end
