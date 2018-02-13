@@ -35,5 +35,3 @@ class MemberName < Scraped::HTML
     noko.text.gsub(/[[:space:]]+/, ' ').tidy.split(/\s+/)
   end
 end
-
-

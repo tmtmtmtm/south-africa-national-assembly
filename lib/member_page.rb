@@ -25,14 +25,26 @@ class MemberPage < Scraped::HTML
     party_data.last
   end
 
+  field :party_wikidata_id do
+    party_identifier = party_node.at_xpath('.//a/@data-identifier-wikidata')
+    return nil if party_identifier.to_s.empty?
+    party_identifier.text
+  end
+
   field :area do
-    area = sidebar.xpath('.//h3[.="Province"]/following-sibling::ul[1]/li').text.tidy
+    area = area_node.text.tidy
     return 'National' if area.to_s.empty?
     area
   end
 
+  field :area_wikidata_id do
+    area_id = area_node.at_xpath('.//a/@data-identifier-wikidata')
+    return nil if area_id.to_s.empty?
+    area_id.text
+  end
+
   field :email do
-    email_from(noko.css('div.contact-actions__email a[href*="mailto:"]/@href'))
+    email_from(noko.css('.email-address a[href*="mailto:"]/@href'))
   end
 
   field :term do
@@ -45,6 +57,12 @@ class MemberPage < Scraped::HTML
 
   field :identifier__peoples_assembly do
     noko.at_css('meta[name="pombola-person-id"]/@content').text
+  end
+
+  field :identifier__wikidata do
+    wikidata_identifier = noko.at_css('meta[name="pa:identifier-wikidata"]/@content')
+    return nil if wikidata_identifier.to_s.empty?
+    wikidata_identifier.text
   end
 
   field :source do
@@ -66,6 +84,10 @@ class MemberPage < Scraped::HTML
     party_info = party_node.text.tidy
     return %w[Independent IND] if party_info.include? 'Not a member of any party'
     party_info.match(/(.*) \((.*)\)/).captures rescue [party_info, '']
+  end
+
+  def area_node
+    sidebar.xpath('.//h3[.="Province"]/following-sibling::ul[1]/li')
   end
 
   def name_data
