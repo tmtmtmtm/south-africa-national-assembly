@@ -44,7 +44,7 @@ class MemberPage < Scraped::HTML
   end
 
   field :email do
-    email_node.first.to_s.sub('mailto:', '')
+    email_list.join(' ; ')
   end
 
   field :term do
@@ -96,5 +96,11 @@ class MemberPage < Scraped::HTML
 
   def email_node
     noko.css('.email-address a[href*="mailto:"]/@href')
+  end
+
+  def email_list
+    email_node.map do |node|
+      node.text.sub('mailto:', '')
+    end
   end
 end
