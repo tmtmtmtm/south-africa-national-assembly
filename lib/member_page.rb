@@ -44,7 +44,7 @@ class MemberPage < Scraped::HTML
   end
 
   field :email do
-    email_node.first.to_s.sub('mailto:', '')
+    sorted_email_list.join(' ; ')
   end
 
   field :term do
@@ -96,5 +96,15 @@ class MemberPage < Scraped::HTML
 
   def email_node
     noko.css('.email-address a[href*="mailto:"]/@href')
+  end
+
+  def email_list
+    email_node.map do |node|
+      node.text.sub('mailto:', '')
+    end
+  end
+
+  def sorted_email_list
+    email_list.sort_by { |e| e.include?('parliament.gov.za') ? -1 : 1 }
   end
 end
