@@ -6,7 +6,7 @@ class MembersPage < Scraped::HTML
   decorator Scraped::Response::Decorator::CleanUrls
 
   field :member_urls do
-    noko.css('.list-of-people a[href*="/person/"]/@href').map(&:text)
+    noko.css('.person-list-item a[href*="/person/"]/@href').map(&:text)
   end
 
   field :next_page do
