@@ -1,0 +1,1108 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://www.pa.org.za/person/christian-themba-msimang/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Tue, 10 Apr 2018 08:52:24 GMT
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Length:
+      - '16305'
+      Connection:
+      - keep-alive
+      Expires:
+      - Tue, 10 Apr 2018 09:12:24 GMT
+      Vary:
+      - Cookie,Accept-Encoding
+      Cache-Control:
+      - max-age=1200
+      Last-Modified:
+      - Tue, 10 Apr 2018 08:52:24 GMT
+      X-Url:
+      - "/person/christian-themba-msimang/"
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '0'
+    body:
+      encoding: ASCII-8BIT
+      string: "<!DOCTYPE html>\n<html class=\"no-js\">\n    <head>\n\n\n\n        <meta
+        charset=\"utf-8\">\n        <title>\n            Christian Themba Msimang\n
+        \            :: People's Assembly \n        </title>\n\n        <meta http-equiv=\"Content-Type\"
+        content=\"text/html; charset=UTF-8\">\n        <meta name=\"viewport\" content=\"width=device-width,
+        minimum-scale=1.0, maximum-scale=1.0\">\n        <meta http-equiv=\"cleartype\"
+        content=\"on\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n\n
+        \       \n  \n  \n    <link href=\"//peoplesassembly.disqus.com\" rel=\"dns-prefetch\"
+        />\n    <!--[if IE 9]>\n      <link href=\"http://peoplesassembly.disqus.com/\"
+        rel=\"prefetch\" />\n    <![endif]-->\n  \n  <meta name=\"pombola-person-id\"
+        content=\"826\">\n  \n  <meta name=\"pa:identifier-org.mysociety.za\" content=\"/person/506\">\n
+        \ \n  <meta name=\"pa:identifier-za.gov.parliament/person\" content=\"759\">\n
+        \ \n  <meta name=\"pa:identifier-myreps_person_id\" content=\"5325\">\n  \n
+        \ <meta name=\"pa:identifier-myreps_id\" content=\"7966\">\n  \n  <meta name=\"pa:identifier-za.org.pmg.api/member\"
+        content=\"375\">\n  \n\n\n        \n        <meta property=\"fb:app_id\" content=\"1619725741628189\"
+        />\n        \n\n        \n\n<meta property=\"og:title\" content=\"Christian
+        Themba Msimang\" />\n<meta property=\"og:site_name\" content=\"People&#39;s
+        Assembly\" />\n<meta property=\"og:type\" content=\"profile\" />\n\n<meta
+        property=\"og:image\" content=\"http://www.pa.org.za/media_root/images/Picture_of_Christian_Themba_Msimang_3\"
+        />\n\n<meta property=\"og:url\" content=\"http://www.pa.org.za/person/christian-themba-msimang/\"
+        />\n\n\n<meta property=\"profile:first_name\" content=\"Christian Themba\"
+        />\n\n\n<meta property=\"profile:last_name\" content=\"Msimang\" />\n\n\n\n\n
+        \       \n    <link href=\"/static/css/south-africa.5dc1859ce849.css\" rel=\"stylesheet\"
+        type=\"text/css\" />\n\n\n        \n        <script type=\"text/javascript\"
+        charset=\"utf-8\">\n\n            window.pombola_settings = {\n                google_analytics_account
+        : 'UA-47810266-1',\n                static_url:                '/static/',\n
+        \               map_bounds: {\n                  north: -22.06,\n                  east:
+        \ 32.95,\n                  south: -35.0,\n                  west:  16.3\n
+        \               },\n                crosshairs_image: '/static/images/crosshairs.9809ff8a2f7f.png'\n
+        \           };\n\n            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n
+        \           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n
+        \           m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n
+        \           })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n
+        \           ga('create', pombola_settings.google_analytics_account);\n            ga('send',
+        'pageview');\n\n        </script>\n\n        \n\n        <script type=\"text/javascript\"
+        src=\"/static/js/modernizr.c6ae4ab2e77b.js\" charset=\"utf-8\"></script>\n\n
+        \       <!--[if (lt IE 9) & (!IEMobile)]>\n            <script type=\"text/javascript\"
+        src=\"/static/js/respond.1d1b2e4f5263.js\" charset=\"utf-8\"></script>\n        <![endif]-->\n\n
+        \       <link rel=\"icon\" type=\"image/png\" href=\"/static/images/favicon.c0fda3ea8617.png\">\n\n
+        \       \n\n    </head>\n    <body >\n\n        \n          \n\n\n\n\n\n<header
+        id=\"site-header\">\n    <div class=\"wrapper\">\n\n        <a href=\"/\"
+        class=\"logo site-logo-svg\" aria-label=\"Home\"><svg xmlns=\"http://www.w3.org/2000/svg\"
+        xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"Layer_1\"
+        x=\"0\" y=\"0\" viewBox=\"0 0 184 90\" enable-background=\"new 0 0 184 90\"
+        xml:space=\"preserve\" class=\"site-logo-svg__svg\" height=\"90px\" width=\"184px\"><path
+        fill=\"#007C59\" d=\"M44.2 2.5c-4.6 0-9.2 0.8-13.7 2.3C19.8 8.4 11.2 16 6.2
+        26.2 -4 47.1 4.6 72.5 25.6 82.7c5.8 2.9 12.1 4.3 18.4 4.3l0-8c-5.1 0-10.2-1.2-14.9-3.5
+        -17-8.3-24-28.9-15.7-45.9 4-8.2 11-14.4 19.7-17.3 3.6-1.2 7.4-1.9 11.1-1.9
+        5.2 0 10.3 1.2 15.1 3.5 2.4 1.2 4.6 2.6 6.6 4.2l5.1-6.2c-2.5-2-5.2-3.8-8.2-5.2C56.9
+        3.9 50.6 2.5 44.2 2.5\"/><path fill=\"#E23D28\" d=\"M44.2 17.4c-10.1 0-19.8
+        5.6-24.6 15.3 -6.6 13.5-1 29.9 12.5 36.6 3.8 1.8 7.8 2.8 11.9 2.8l0-8c-2.9
+        0-5.7-0.7-8.3-2 -9.6-4.7-13.5-16.3-8.8-25.9 3.4-6.8 10.2-10.8 17.4-10.8 2.9
+        0 5.8 0.6 8.5 2 1.4 0.7 2.6 1.5 3.8 2.4l5.1-6.2c-1.6-1.3-3.4-2.5-5.3-3.4C52.4
+        18.3 48.3 17.4 44.2 17.4\"/><path fill=\"#FCB514\" d=\"M44.2 33.5c-4.2 0-8.2
+        2.3-10.1 6.3 -1.3 2.7-1.5 5.8-0.5 8.6 1 2.8 3 5.1 5.7 6.5 1.5 0.7 3.1 1.1
+        4.8 1.2l0-8c-0.4 0-0.9-0.1-1.3-0.3 -0.8-0.4-1.4-1.1-1.7-1.9 -0.3-0.8-0.2-1.7
+        0.2-2.5 0.4-0.8 1.1-1.4 1.9-1.7 0.3-0.1 0.7-0.2 1.1-0.2 0.5 0 1 0.1 1.4 0.3
+        0.3 0.1 0.5 0.3 0.7 0.5l5.1-6.2c-0.7-0.6-1.4-1-2.2-1.4C47.5 33.9 45.9 33.5
+        44.2 33.5\"/><defs><polyline points=\"-1355.2 -3029.4 1405.1 -3029.4 1405.1
+        3239.4 -1355.2 3239.4 -1355.2 -3029.4 \"/></defs><clipPath><use xlink:href=\"#SVGID_1_\"
+        overflow=\"visible\"/></clipPath><path d=\"M81.5 41.8v7.1h-4.9V27.7h7.5c1.5
+        0 2.8 0.2 3.8 0.5 1.1 0.4 2 0.8 2.6 1.5 0.7 0.6 1.2 1.4 1.5 2.2s0.5 1.8 0.5
+        2.7c0 1.1-0.2 2-0.5 2.9 -0.3 0.9-0.9 1.6-1.6 2.3 -0.7 0.6-1.6 1.1-2.7 1.5
+        -1.1 0.4-2.3 0.5-3.8 0.5H81.5zM81.5 38.1h2.6c1.3 0 2.2-0.3 2.8-0.9 0.6-0.6
+        0.8-1.5 0.8-2.6 0-0.5-0.1-0.9-0.2-1.3 -0.1-0.4-0.4-0.7-0.7-1 -0.3-0.3-0.7-0.5-1.1-0.7
+        -0.5-0.2-1-0.2-1.6-0.2h-2.6V38.1z\"/><path d=\"M100.8 33.5c1 0 1.9 0.2 2.7
+        0.5 0.8 0.3 1.5 0.8 2.1 1.4s1.1 1.3 1.4 2.2c0.3 0.9 0.5 1.8 0.5 2.9 0 0.3
+        0 0.6 0 0.8 0 0.2-0.1 0.4-0.2 0.5s-0.2 0.2-0.3 0.3 -0.3 0.1-0.5 0.1h-8.7c0.1
+        1.3 0.5 2.2 1.1 2.7 0.6 0.6 1.4 0.9 2.4 0.9 0.5 0 1-0.1 1.4-0.2 0.4-0.1 0.7-0.3
+        1-0.4 0.3-0.2 0.6-0.3 0.8-0.4 0.2-0.1 0.5-0.2 0.8-0.2 0.4 0 0.6 0.1 0.8 0.4l1.3
+        1.6c-0.5 0.5-1 1-1.5 1.3 -0.5 0.3-1.1 0.6-1.7 0.8 -0.6 0.2-1.1 0.3-1.7 0.4
+        -0.6 0.1-1.1 0.1-1.6 0.1 -1.1 0-2-0.2-3-0.5 -0.9-0.3-1.7-0.9-2.4-1.5s-1.2-1.5-1.6-2.5c-0.4-1-0.6-2.2-0.6-3.5
+        0-1 0.2-2 0.5-2.9 0.3-0.9 0.8-1.7 1.5-2.4 0.6-0.7 1.4-1.2 2.3-1.6S99.7 33.5
+        100.8 33.5zM100.9 36.7c-0.9 0-1.5 0.2-2 0.7 -0.5 0.5-0.8 1.2-1 2.1h5.6c0-0.4
+        0-0.7-0.1-1 -0.1-0.3-0.2-0.6-0.5-0.9s-0.5-0.5-0.8-0.6C101.8 36.7 101.4 36.7
+        100.9 36.7z\"/><path d=\"M116.7 33.5c1.1 0 2.2 0.2 3.1 0.5 0.9 0.4 1.7 0.9
+        2.4 1.5 0.7 0.7 1.2 1.5 1.6 2.4 0.4 1 0.6 2 0.6 3.2 0 1.2-0.2 2.3-0.6 3.2
+        -0.4 1-0.9 1.8-1.6 2.5 -0.7 0.7-1.5 1.2-2.4 1.6 -0.9 0.4-2 0.5-3.1 0.5 -1.2
+        0-2.2-0.2-3.1-0.5s-1.8-0.9-2.4-1.6c-0.7-0.7-1.2-1.5-1.6-2.5 -0.4-1-0.6-2-0.6-3.2
+        0-1.2 0.2-2.3 0.6-3.2 0.4-1 0.9-1.8 1.6-2.4 0.7-0.7 1.5-1.2 2.4-1.5C114.5
+        33.7 115.6 33.5 116.7 33.5zM116.7 45.7c1 0 1.8-0.4 2.3-1.1 0.5-0.7 0.7-1.8
+        0.7-3.3s-0.2-2.6-0.7-3.3c-0.5-0.7-1.3-1.1-2.3-1.1 -1.1 0-1.8 0.4-2.3 1.1 -0.5
+        0.7-0.7 1.8-0.7 3.3s0.2 2.6 0.7 3.3C114.9 45.4 115.7 45.7 116.7 45.7z\"/><path
+        d=\"M126.6 53.6V33.8h2.8c0.3 0 0.5 0.1 0.7 0.2s0.3 0.3 0.4 0.6l0.3 1.1c0.3-0.3
+        0.6-0.6 0.9-0.9s0.7-0.5 1.1-0.7 0.8-0.3 1.2-0.4c0.4-0.1 0.9-0.2 1.4-0.2 0.8
+        0 1.5 0.2 2.2 0.5s1.2 0.9 1.7 1.5c0.5 0.7 0.9 1.5 1.1 2.4 0.3 1 0.4 2 0.4
+        3.2 0 1.1-0.2 2.2-0.5 3.1s-0.8 1.8-1.3 2.5c-0.6 0.7-1.2 1.3-2 1.7s-1.7 0.6-2.6
+        0.6c-0.8 0-1.4-0.1-2-0.3 -0.5-0.2-1-0.5-1.5-0.9v5.8H126.6zM134 36.9c-0.3 0-0.6
+        0-0.9 0.1 -0.3 0.1-0.5 0.2-0.7 0.3s-0.4 0.3-0.6 0.4c-0.2 0.2-0.4 0.4-0.6 0.6v6.4c0.3
+        0.4 0.7 0.6 1.1 0.8s0.8 0.2 1.3 0.2c0.4 0 0.8-0.1 1.1-0.2 0.3-0.2 0.7-0.4
+        0.9-0.8 0.3-0.4 0.5-0.8 0.6-1.4 0.1-0.6 0.2-1.3 0.2-2.1 0-0.8-0.1-1.5-0.2-2
+        -0.1-0.5-0.3-1-0.5-1.3s-0.5-0.6-0.7-0.7C134.7 37 134.3 36.9 134 36.9z\"/><path
+        d=\"M147.9 27.1v21.8h-4.5V27.1H147.9z\"/><path d=\"M157.6 33.5c1 0 1.9 0.2
+        2.7 0.5 0.8 0.3 1.5 0.8 2.1 1.4s1.1 1.3 1.4 2.2c0.3 0.9 0.5 1.8 0.5 2.9 0
+        0.3 0 0.6 0 0.8 0 0.2-0.1 0.4-0.2 0.5S164 42 163.9 42s-0.3 0.1-0.5 0.1h-8.7c0.1
+        1.3 0.5 2.2 1.1 2.7 0.6 0.6 1.4 0.9 2.4 0.9 0.5 0 1-0.1 1.4-0.2 0.4-0.1 0.7-0.3
+        1-0.4 0.3-0.2 0.6-0.3 0.8-0.4 0.2-0.1 0.5-0.2 0.8-0.2 0.4 0 0.6 0.1 0.8 0.4l1.3
+        1.6c-0.5 0.5-1 1-1.5 1.3 -0.5 0.3-1.1 0.6-1.7 0.8 -0.6 0.2-1.1 0.3-1.7 0.4
+        -0.6 0.1-1.1 0.1-1.6 0.1 -1.1 0-2-0.2-3-0.5 -0.9-0.3-1.7-0.9-2.4-1.5s-1.2-1.5-1.6-2.5c-0.4-1-0.6-2.2-0.6-3.5
+        0-1 0.2-2 0.5-2.9 0.3-0.9 0.8-1.7 1.5-2.4 0.6-0.7 1.4-1.2 2.3-1.6S156.5 33.5
+        157.6 33.5zM157.7 36.7c-0.9 0-1.5 0.2-2 0.7 -0.5 0.5-0.8 1.2-1 2.1h5.6c0-0.4
+        0-0.7-0.1-1 -0.1-0.3-0.2-0.6-0.5-0.9s-0.5-0.5-0.8-0.6C158.6 36.7 158.2 36.7
+        157.7 36.7z\"/><path d=\"M169 26.3c0.4 0.6 0.7 1.2 0.9 1.8 0.2 0.6 0.3 1.2
+        0.3 1.8 0 1-0.3 2-0.8 3 -0.5 0.9-1.3 1.8-2.4 2.6l-1.4-0.8c-0.1-0.1-0.2-0.2-0.3-0.3
+        -0.1-0.1-0.1-0.2-0.1-0.3 0-0.1 0-0.2 0.1-0.3 0-0.1 0.1-0.2 0.2-0.2 0.1-0.1
+        0.2-0.3 0.4-0.4 0.1-0.2 0.3-0.4 0.4-0.6 0.1-0.2 0.2-0.5 0.3-0.8 0.1-0.3 0.1-0.6
+        0.1-0.9 0-0.3-0.1-0.7-0.2-1.1 -0.1-0.4-0.3-0.8-0.6-1.3 -0.1-0.2-0.1-0.3-0.1-0.5
+        0-0.2 0.1-0.3 0.2-0.5 0.1-0.1 0.3-0.2 0.5-0.3L169 26.3z\"/><path d=\"M180.4
+        37.1c-0.1 0.2-0.2 0.3-0.4 0.4 -0.1 0.1-0.3 0.1-0.5 0.1 -0.2 0-0.4 0-0.6-0.1
+        -0.2-0.1-0.4-0.2-0.7-0.3 -0.2-0.1-0.5-0.2-0.8-0.3s-0.7-0.1-1.1-0.1c-0.6 0-1
+        0.1-1.3 0.3 -0.3 0.2-0.5 0.5-0.5 0.9 0 0.3 0.1 0.5 0.3 0.7s0.5 0.3 0.8 0.5c0.3
+        0.1 0.7 0.3 1.1 0.4 0.4 0.1 0.8 0.3 1.3 0.4 0.4 0.2 0.9 0.3 1.3 0.5 0.4 0.2
+        0.8 0.5 1.1 0.8 0.3 0.3 0.6 0.7 0.8 1.1 0.2 0.4 0.3 1 0.3 1.6 0 0.7-0.1 1.4-0.4
+        2.1 -0.3 0.6-0.7 1.2-1.2 1.6 -0.5 0.5-1.2 0.8-2 1.1s-1.7 0.4-2.7 0.4c-0.5
+        0-1 0-1.5-0.1s-1-0.2-1.5-0.4c-0.5-0.2-0.9-0.4-1.3-0.6 -0.4-0.2-0.8-0.5-1-0.7l1-1.7c0.1-0.2
+        0.3-0.3 0.5-0.5 0.2-0.1 0.4-0.2 0.7-0.2 0.3 0 0.5 0.1 0.7 0.2 0.2 0.1 0.4
+        0.2 0.7 0.4 0.2 0.1 0.5 0.3 0.9 0.4 0.3 0.1 0.7 0.2 1.2 0.2 0.3 0 0.6 0 0.9-0.1
+        0.2-0.1 0.4-0.2 0.6-0.3 0.1-0.1 0.3-0.3 0.3-0.4 0.1-0.2 0.1-0.3 0.1-0.5 0-0.3-0.1-0.5-0.3-0.7s-0.5-0.4-0.8-0.5
+        -0.7-0.3-1.1-0.4c-0.4-0.1-0.9-0.3-1.3-0.4 -0.4-0.2-0.9-0.3-1.3-0.6 -0.4-0.2-0.8-0.5-1.1-0.8
+        -0.3-0.3-0.6-0.7-0.8-1.2s-0.3-1.1-0.3-1.8c0-0.6 0.1-1.2 0.4-1.8 0.2-0.6 0.6-1.1
+        1.1-1.5 0.5-0.4 1.1-0.8 1.9-1 0.7-0.3 1.6-0.4 2.6-0.4 0.5 0 1.1 0 1.6 0.1
+        0.5 0.1 1 0.2 1.4 0.4 0.4 0.2 0.9 0.4 1.2 0.6 0.4 0.2 0.7 0.5 1 0.8L180.4
+        37.1z\"/><path d=\"M72.4 77h-2.3c-0.3 0-0.5-0.1-0.7-0.2 -0.2-0.1-0.3-0.3-0.4-0.5L67
+        71H57L55 76.3c-0.1 0.2-0.2 0.4-0.4 0.5S54.2 77 53.9 77h-2.3l8.9-22.2h3.1L72.4
+        77zM57.9 68.8h8.3l-3.5-9c-0.2-0.6-0.4-1.3-0.7-2.1 -0.1 0.4-0.2 0.8-0.3 1.2
+        -0.1 0.4-0.2 0.7-0.3 0.9L57.9 68.8z\"/><path d=\"M84.1 63.9c-0.1 0.2-0.3 0.3-0.6
+        0.3 -0.2 0-0.3-0.1-0.5-0.2 -0.2-0.1-0.4-0.2-0.7-0.4 -0.3-0.1-0.6-0.3-1-0.4
+        -0.4-0.1-0.9-0.2-1.4-0.2 -0.5 0-0.9 0.1-1.3 0.2 -0.4 0.1-0.7 0.3-1 0.5 -0.3
+        0.2-0.5 0.4-0.6 0.7 -0.1 0.3-0.2 0.6-0.2 0.9 0 0.4 0.1 0.7 0.3 1 0.2 0.3 0.5
+        0.5 0.9 0.7s0.8 0.4 1.3 0.5c0.5 0.1 1 0.3 1.5 0.5s1 0.4 1.5 0.6c0.5 0.2 0.9
+        0.5 1.3 0.8 0.4 0.3 0.7 0.7 0.9 1.1 0.2 0.5 0.3 1 0.3 1.6 0 0.7-0.1 1.4-0.4
+        2 -0.3 0.6-0.6 1.1-1.1 1.6 -0.5 0.5-1.1 0.8-1.9 1.1 -0.7 0.3-1.6 0.4-2.5 0.4
+        -1.1 0-2.1-0.2-3-0.5s-1.6-0.8-2.3-1.4l0.7-1.1c0.1-0.1 0.2-0.2 0.3-0.3s0.3-0.1
+        0.4-0.1 0.4 0.1 0.6 0.2c0.2 0.1 0.5 0.3 0.8 0.5s0.7 0.3 1.1 0.5c0.4 0.1 0.9
+        0.2 1.6 0.2 0.5 0 1-0.1 1.4-0.2 0.4-0.1 0.7-0.3 1-0.6 0.3-0.2 0.5-0.5 0.6-0.8
+        0.1-0.3 0.2-0.6 0.2-1 0-0.4-0.1-0.8-0.3-1.1 -0.2-0.3-0.5-0.5-0.9-0.7 -0.4-0.2-0.8-0.4-1.3-0.5
+        -0.5-0.1-1-0.3-1.5-0.5s-1-0.4-1.5-0.6c-0.5-0.2-0.9-0.5-1.3-0.8s-0.7-0.7-0.9-1.2
+        -0.3-1-0.3-1.7c0-0.6 0.1-1.2 0.4-1.7 0.2-0.6 0.6-1 1.1-1.5 0.5-0.4 1.1-0.8
+        1.8-1 0.7-0.2 1.5-0.4 2.4-0.4 1 0 2 0.2 2.8 0.5 0.8 0.3 1.5 0.8 2.1 1.3L84.1
+        63.9z\"/><path d=\"M97.1 63.9c-0.1 0.2-0.3 0.3-0.6 0.3 -0.2 0-0.3-0.1-0.5-0.2
+        -0.2-0.1-0.4-0.2-0.7-0.4 -0.3-0.1-0.6-0.3-1-0.4 -0.4-0.1-0.9-0.2-1.4-0.2 -0.5
+        0-0.9 0.1-1.3 0.2 -0.4 0.1-0.7 0.3-1 0.5 -0.3 0.2-0.5 0.4-0.6 0.7 -0.1 0.3-0.2
+        0.6-0.2 0.9 0 0.4 0.1 0.7 0.3 1 0.2 0.3 0.5 0.5 0.9 0.7s0.8 0.4 1.3 0.5c0.5
+        0.1 1 0.3 1.5 0.5s1 0.4 1.5 0.6c0.5 0.2 0.9 0.5 1.3 0.8 0.4 0.3 0.7 0.7 0.9
+        1.1 0.2 0.5 0.3 1 0.3 1.6 0 0.7-0.1 1.4-0.4 2 -0.3 0.6-0.6 1.1-1.1 1.6 -0.5
+        0.5-1.1 0.8-1.9 1.1 -0.7 0.3-1.6 0.4-2.5 0.4 -1.1 0-2.1-0.2-3-0.5s-1.6-0.8-2.3-1.4l0.7-1.1c0.1-0.1
+        0.2-0.2 0.3-0.3s0.3-0.1 0.4-0.1 0.4 0.1 0.6 0.2c0.2 0.1 0.5 0.3 0.8 0.5s0.7
+        0.3 1.1 0.5c0.4 0.1 0.9 0.2 1.6 0.2 0.5 0 1-0.1 1.4-0.2 0.4-0.1 0.7-0.3 1-0.6
+        0.3-0.2 0.5-0.5 0.6-0.8 0.1-0.3 0.2-0.6 0.2-1 0-0.4-0.1-0.8-0.3-1.1 -0.2-0.3-0.5-0.5-0.9-0.7
+        -0.4-0.2-0.8-0.4-1.3-0.5 -0.5-0.1-1-0.3-1.5-0.5s-1-0.4-1.5-0.6c-0.5-0.2-0.9-0.5-1.3-0.8s-0.7-0.7-0.9-1.2
+        -0.3-1-0.3-1.7c0-0.6 0.1-1.2 0.4-1.7 0.2-0.6 0.6-1 1.1-1.5 0.5-0.4 1.1-0.8
+        1.8-1 0.7-0.2 1.5-0.4 2.4-0.4 1 0 2 0.2 2.8 0.5 0.8 0.3 1.5 0.8 2.1 1.3L97.1
+        63.9z\"/><path d=\"M107.3 61.1c0.9 0 1.8 0.2 2.6 0.5 0.8 0.3 1.5 0.8 2.1 1.4
+        0.6 0.6 1 1.3 1.4 2.2 0.3 0.9 0.5 1.9 0.5 3 0 0.4 0 0.7-0.1 0.9 -0.1 0.1-0.3
+        0.2-0.5 0.2h-10.5c0 1 0.2 1.9 0.4 2.6 0.2 0.7 0.6 1.3 1 1.8s1 0.9 1.6 1.1c0.6
+        0.2 1.3 0.4 2 0.4 0.7 0 1.3-0.1 1.8-0.2 0.5-0.2 0.9-0.3 1.3-0.5 0.4-0.2 0.7-0.4
+        0.9-0.5 0.2-0.2 0.5-0.2 0.6-0.2 0.2 0 0.4 0.1 0.5 0.3l0.8 1c-0.3 0.4-0.7 0.8-1.2
+        1.1s-1 0.6-1.5 0.8c-0.5 0.2-1.1 0.3-1.7 0.4 -0.6 0.1-1.2 0.1-1.7 0.1 -1.1
+        0-2.1-0.2-3-0.5 -0.9-0.4-1.7-0.9-2.4-1.6 -0.7-0.7-1.2-1.6-1.6-2.6s-0.6-2.2-0.6-3.6c0-1.1
+        0.2-2.1 0.5-3.1s0.8-1.8 1.4-2.5c0.6-0.7 1.4-1.2 2.3-1.6C105.2 61.3 106.2 61.1
+        107.3 61.1zM107.4 63.1c-1.3 0-2.4 0.4-3.1 1.2 -0.8 0.8-1.2 1.8-1.4 3.2h8.5c0-0.6-0.1-1.2-0.3-1.8s-0.4-1-0.8-1.4
+        -0.8-0.7-1.2-0.9C108.6 63.2 108 63.1 107.4 63.1z\"/><path d=\"M116.9 77V61.3h1.6c0.4
+        0 0.6 0.2 0.7 0.6l0.2 1.6c0.6-0.7 1.2-1.3 1.9-1.8 0.7-0.5 1.6-0.7 2.5-0.7
+        1.1 0 1.9 0.3 2.6 0.9 0.7 0.6 1.1 1.4 1.4 2.4 0.2-0.6 0.5-1.1 0.9-1.5 0.4-0.4
+        0.8-0.8 1.2-1 0.4-0.3 0.9-0.5 1.4-0.6 0.5-0.1 1-0.2 1.5-0.2 0.8 0 1.6 0.1
+        2.2 0.4s1.2 0.6 1.6 1.2 0.8 1.1 1 1.9c0.2 0.7 0.4 1.6 0.4 2.5v10h-2.8V67c0-1.2-0.3-2.2-0.8-2.8s-1.3-1-2.3-1c-0.5
+        0-0.9 0.1-1.3 0.2 -0.4 0.2-0.8 0.4-1.1 0.7 -0.3 0.3-0.6 0.7-0.7 1.2 -0.2 0.5-0.3
+        1-0.3 1.6v10h-2.8V67c0-1.3-0.3-2.2-0.8-2.8 -0.5-0.6-1.2-0.9-2.2-0.9 -0.7 0-1.3
+        0.2-1.9 0.6 -0.6 0.4-1.1 0.9-1.6 1.5V77H116.9z\"/><path d=\"M142 77V54.2h2.8v9.4c0.7-0.8
+        1.4-1.4 2.2-1.8 0.8-0.5 1.8-0.7 2.9-0.7 0.9 0 1.7 0.2 2.5 0.5s1.4 0.9 1.9
+        1.5c0.5 0.7 0.9 1.5 1.2 2.5 0.3 1 0.4 2.1 0.4 3.5 0 1.2-0.2 2.2-0.5 3.2 -0.3
+        1-0.8 1.9-1.3 2.6 -0.6 0.7-1.3 1.3-2.1 1.7 -0.8 0.4-1.8 0.6-2.8 0.6 -1 0-1.9-0.2-2.6-0.6
+        -0.7-0.4-1.3-0.9-1.9-1.6l-0.1 1.4c-0.1 0.4-0.3 0.6-0.7 0.6H142zM149 63.3c-0.9
+        0-1.7 0.2-2.4 0.6 -0.7 0.4-1.3 1-1.9 1.8v7.6c0.5 0.7 1 1.2 1.7 1.4 0.6 0.3
+        1.3 0.4 2 0.4 1.5 0 2.6-0.5 3.4-1.6 0.8-1 1.2-2.5 1.2-4.5 0-1-0.1-1.9-0.3-2.6
+        -0.2-0.7-0.4-1.3-0.8-1.8 -0.3-0.5-0.8-0.8-1.3-1C150.2 63.4 149.6 63.3 149
+        63.3z\"/><path d=\"M161.9 54.2V77h-2.8V54.2H161.9z\"/><path d=\"M170.9 81.7c-0.1
+        0.2-0.2 0.4-0.3 0.5s-0.4 0.2-0.6 0.2h-2l2.9-6.2 -6.5-14.8h2.4c0.2 0 0.4 0.1
+        0.6 0.2s0.2 0.3 0.3 0.4l4.2 9.9c0.1 0.2 0.2 0.5 0.2 0.7s0.1 0.5 0.2 0.7c0.1-0.2
+        0.1-0.5 0.2-0.7 0.1-0.2 0.2-0.5 0.2-0.7l4.1-9.9c0.1-0.2 0.2-0.3 0.3-0.4s0.3-0.2
+        0.5-0.2h2.2L170.9 81.7z\"/></svg>\n</a>\n<a href=\"/\" class=\"logo no-svg-fallback-logo\"
+        aria-label=\"Home\">People's Assembly</a>\n\n<p class=\"logo-tagline\">Connecting
+        people with their representatives</p>\n\n<div class=\"about-this-site-menu\">\n
+        \   <ul role=\"menubar\" aria-label=\"Help menu\">\n        <li>\n            <a
+        href=\"/info/about\" role=\"menuitem\" aria-haspopup=\"true\">About us</a>\n
+        \           <ul class=\"js-hover-dropdown\" role=\"menu\">\n                <li><a
+        href=\"/info/about\" role=\"menuitem\">Who we are</a></li>\n                <li><a
+        href=\"/info/source-data\" role=\"menuitem\">Source Data</a></li>\n                <li><a
+        href=\"/info/for-representatives\" role=\"menuitem\">For Representatives</a></li>\n
+        \           </ul>\n        </li>\n        <li><a href=\"/info/contact-us\"
+        role=\"menuitem\">Contact us</a></li>\n    </ul>\n</div>\n\n<ul class=\"social-links-list\"
+        aria-label=\"Social links\">\n    <li><a href=\"https://mail4.marketingautomation.services/prospector/form/MzawMDE2MrUwBwA/SzMyMjE3NErSNTAzSdI1SbFI07VITLTQTTZJM05NSjOzNEy1AAA\"
+        class=\"email-social-icon\">Email</a></li>\n    <li><a href=\"https://www.facebook.com/peoplesassemblysa\"
+        class=\"facebook-social-icon\">Facebook</a></li>\n    <li><a href=\"https://twitter.com/PeoplesAssem_SA\"
+        class=\"twitter-social-icon\">Twitter</a></li>\n    <!--<li><a href=\"#\"
+        class=\"youtube-social-icon\">YouTube</a></li>\n    <li><a href=\"#\" class=\"rss-social-icon\">RSS</a></li>
+        -->\n</ul>\n\n\n        <menu id=\"mobile-top-tools\">\n            <ul>\n
+        \               <li><a href=\"#footer-menu\" class=\"m-icon-nav\">menu</a></li>\n
+        \               <li><a href=\"/search/\" class=\"icon-search\"><img src=\"/static/images/search-icon.95c861f1f8ad.png\"
+        alt=\"search\"/></a></li>\n            </ul>\n        </menu>\n\n        \n\n
+        \   </div>\n</header>\n\n\n<div id=\"main-menu\">\n    <nav class=\"wrapper\">\n
+        \       <ul role=\"menubar\" aria-label=\"Main menu\">\n            \n                \n\n<li><a
+        href=\"/\" role=\"menuitem\">Home</a></li>\n\n<li><a href=\"/search/location/\"
+        role=\"menuitem\">Rep Locator</a></li>\n\n<li>\n  <a href=\"/person/all/\"
+        class=\"has-dropdown\" role=\"menuitem\" aria-haspopup=\"true\">People</a>\n
+        \ \n    <ul id=\"parliament-overview\" class=\"js-hover-dropdown\" role=\"menu\">\n
+        \     <li><a href=\"/search/?section=persons\" role=\"menuitem\">Find by name</a></li>\n
+        \     <li><a href=\"/organisation/is/parliament/\" role=\"menuitem\">Parliament</a>\n
+        \       <ul>\n          <li><a href=\"/organisation/national-assembly/\" role=\"menuitem\">National
+        Assembly</a></li>\n          <li><a href=\"/organisation/ncop/\" role=\"menuitem\">National
+        Council of Provinces</a></li>\n        </ul>\n      </li>\n      <li><a href=\"/place/is/province/\"
+        role=\"menuitem\">Provinces</a>\n        <ul id=\"provinces-overview\">\n
+        \         <li><a href=\"/place/eastern-cape/\" role=\"menuitem\">Eastern Cape</a></li>\n
+        \         <li><a href=\"/place/free-state/\" role=\"menuitem\">Free State</a></li>\n
+        \         <li><a href=\"/place/gauteng/\" role=\"menuitem\">Gauteng</a></li>\n
+        \         <li><a href=\"/place/kwazulu-natal/\" role=\"menuitem\">KwaZulu-Natal</a></li>\n
+        \         <li><a href=\"/place/limpopo/\" role=\"menuitem\">Limpopo</a></li>\n
+        \         <li><a href=\"/place/mpumalanga/\" role=\"menuitem\">Mpumalanga</a></li>\n
+        \         <li><a href=\"/place/northern-cape/\" role=\"menuitem\">Northern
+        Cape</a></li>\n          <li><a href=\"/place/north-west/\" role=\"menuitem\">North
+        West</a></li>\n          <li><a href=\"/place/western-cape/\" role=\"menuitem\">Western
+        Cape</a></li>\n        </ul>\n      </li>\n    </ul>\n  \n</li>\n\n<li>\n
+        \ <a href=\"/blog/\" class=\"has-dropdown\" role=\"menuitem\" aria-haspopup=\"true\">Blog</a>\n
+        \ \n    <ul id=\"blog-overview\" class=\"js-hover-dropdown\" role=\"menu\">\n
+        \     <li><a href=\"/blog/category/week-parliament\" role=\"menuitem\">That
+        Week In Parliament</a></li>\n      <li><a href=\"/blog/category/commentary\"
+        role=\"menuitem\">Commentary</a></li>\n    </ul>\n  \n</li>\n\n<li><a href=\"/position/member/parliament/?order=name&amp;a=1\"
+        role=\"menuitem\">MP Profiles</a></li>\n<li><a href=\"/mp-attendance/\" role=\"menuitem\">MP
+        Attendance</a></li>\n<li>\n  <a href=\"/info/public-participation\" class=\"has-dropdown\"
+        role=\"menuitem\" aria-haspopup=\"true\">Public Participation</a>\n  \n    <ul
+        id=\"extras-overview\" class=\"js-hover-dropdown\" role=\"menu\">\n      <li><a
+        href=\"/info/make-yourself-heard\" role=\"menuitem\">Make yourself heard</a></li>\n
+        \     <li>\n        <a href=\"/info/elections\" role=\"menuitem\">Elections</a>\n
+        \       <ul>\n          <li><a href=\"/election/2014/\" role=\"menuitem\">Election
+        2014 Candidates</a></li>\n        </ul>\n      </li>\n      <li><a href=\"/info/petitions\"
+        role=\"menuitem\">Petitions</a></li>\n      <li><a href=\"/committees/\" role=\"menuitem\">National
+        Assembly Committees</a></li>\n    </ul>\n  \n</li>\n\n<li>\n  <a href=\"/info/hot-topics\"
+        class=\"has-dropdown\" role=\"menuitem\" aria-haspopup=\"true\">Hot Topics</a>\n
+        \ \n    <ul id=\"extras-overview\" class=\"js-hover-dropdown\" role=\"menu\">\n
+        \     <li><a href=\"/question\" role=\"menuitem\">Questions</a></li>\n      <li><a
+        href=\"/interests/\" role=\"menuitem\">MP Assets</a></li>\n      <li><a href=\"/blog/category/mp-corner\"
+        role=\"menuitem\">MP Corner</a></li>\n      <li><a href=\"/info/infographics\"
+        role=\"menuitem\">Infographics</a></li>\n    </ul>\n  \n</li>\n\n\n<li class=\"header-search\"
+        role=\"search\">\n  <form action=\"/search/\" method=\"get\" id=\"header-search\">\n
+        \     <input class=\"search-autocomplete-name\" type=\"text\" name=\"q\" placeholder=\"Search
+        pa.org.za\" />\n      <button type=\"submit\">Submit</button>\n  </form>\n</li>\n\n\n
+        \           \n        </ul>\n    </nav>\n</div>\n\n\n        \n\n        \n\n
+        \       \n        \n        <div id=\"breadcrumb\">\n            <nav class=\"wrapper\">\n
+        \               <ul>\n                    <li><a href=\"/\" title=\"Breadcrumb
+        link to the homepage.\">Home</a>  <span class=\"sep\">&raquo;</span> </li><li><a
+        href=\"/person/all/\" title=\"Breadcrumb link to Politicians\">Politicians</a>
+        \ <span class=\"sep\">&raquo;</span> </li><li>Christian Themba Msimang</li>\n
+        \               </ul>\n            </nav>\n        </div>\n        \n\n        \n<div
+        id=\"page\">\n  \n\n  \n    <div class=\"page-wrapper wrapper\">\n        \n
+        \   \n<script type=\"text/javascript\">\n\n  var disqus_shortname = 'peoplesassembly';\n\n
+        \ var disqus_identifier, disqus_developer;\n\n  \n\n  \n    \n      \n      disqus_identifier
+        = 'person-826';\n    \n  \n\n  \n  disqus_identifier = undefined;\n\n  var
+        disqusScriptTagsAdded = {};\n\n  function addDisqusScriptTag (name) {\n    if
+        (!disqusScriptTagsAdded[name]) {\n      var dsq = document.createElement('script');\n
+        \     dsq.type  = 'text/javascript';\n      dsq.async = true;\n      dsq.src
+        \  = 'http://' + disqus_shortname + '.disqus.com/' + name + '.js';\n      (document.getElementsByTagName('head')[0]
+        || document.getElementsByTagName('body')[0]).appendChild(dsq);\n      disqusScriptTagsAdded[name]
+        = true;\n    }\n  }\n\n  // Load the correct tag using either of these lines
+        in your code. Don't worry\n  // about repeating them, subsequent calls are
+        ignored. Annoyingly the 'embed'\n  // one produces an exception if it can't
+        find the element it wants :(\n  //\n  // addDisqusScriptTag('embed');\n  //
+        addDisqusScriptTag('count');\n\n</script>\n\n\n\n    \n      <div class=\"title-space\">\n\n
+        \       \n          <h1>Prof Christian Themba Msimang</h1>\n        \n\n        \n
+        \   <div class=\"important-positions\">\n      \n      \n        <p>\n          Formerly:\n
+        \         \n            <span class=\"position-title\">National Assembly</span>\n
+        \         \n          \n        </p>\n      \n    </div>\n\n    <div class=\"contact-actions\">\n
+        \     \n        <div class=\"contact-actions__email\">\n        \n          <span
+        class=\"email-address\"><a href=\"mailto:cmsimang@parliament.gov.za\">cmsimang@parliament.gov.za</a></span>\n
+        \       \n        </div>\n      \n\n      \n\n      \n\n      \n\n      \n\n
+        \     \n    </div>\n\n\n        \n        <div class=\"object_menu\">\n          <nav>\n
+        \           <ul>\n              \n  \n\n            </ul>\n          </nav>\n
+        \       </div>\n        \n\n      </div>\n    \n\n    \n      <div class=\"profile-pic\">\n
+        \       \n          <img src=\"/media_root/cache/3f/42/3f42e513e2bb2a9fddf02ef5d6dd0bf7.jpg\"\n
+        \       \n        \n            srcset=\"/media_root/cache/2f/bc/2fbc7b42bb8a96807d435c02832fb916.jpg
+        640w\"\n        \n            alt=\"Christian Themba Msimang\">\n      </div>\n
+        \   \n\n    <div class=\"profile-info\">\n      \n<div class=\"sidebar\">\n
+        \ <div class=\"constituency-party\">\n\n      <h3>Party</h3>\n      <ul class=\"party-memberships\">\n
+        \       \n          <li><a href=\"/organisation/ifp/\"\n            \n              data-identifier-org.mysociety.za=\"/party/ifp\"\n
+        \           \n              data-identifier-wikidata=\"Q654444\"\n            \n
+        \           class=\"party-membership party-membership--party\">Inkatha Freedom
+        Party (IFP)</a></li>\n        \n      </ul>\n\n    \n\n    \n\n    \n\n    \n\n
+        \   \n\n      <h3>Constituency Offices</h3>\n      <ul>\n        \n          <li>Not
+        associated with any constituency offices</li>\n        \n      </ul>\n\n    \n
+        \   \n  </div>\n</div>\n\n\n      <div class=\"social-and-tools\">\n          \n
+        \     </div>\n\n    </div>\n\n    <div class=\"large-container\">\n      \n
+        \   <div class=\"person-summary\">\n      <h3>About Christian Themba Msimang</h3>\n
+        \   \n      \n    </div>\n\n  \n    <div class=\"tabs ui-tabs ui-widget person-tabs\">\n
+        \     <ul class=\"tab-links ui-tabs-nav ui-helper-reset ui-helper-clearfix
+        ui-widget-header\">\n        \n          <li class=\"ui-state-default\">\n
+        \           <a class=\"ui-tabs-anchor\" href=\"#attendance\">Committee Attendance</a>\n
+        \         </li>\n        \n        \n          <li class=\"ui-state-default\">\n
+        \           <a class=\"ui-tabs-anchor\" href=\"#experience\">Positions held</a>\n
+        \         </li>\n        \n        \n        \n          <li class=\"ui-state-default\">\n
+        \           <a class=\"ui-tabs-anchor\" href=\"#membersinterests\">Register
+        of Interests</a>\n          </li>\n        \n        \n          <li class=\"ui-state-default\">\n
+        \           <a class=\"ui-tabs-anchor\" href=\"#appearances\">Appearances</a>\n
+        \         </li>\n        \n      </ul>\n\n      \n        <div id=\"attendance\"
+        class=\"tab-content ui-tabs-panel ui-widget-content\">\n          <div class=\"fifty-fifty-layout\">\n\n
+        \           \n\n              <div class=\"column\">\n                \n                  <header>\n
+        \                   <h3 class=\"attendance__heading\">2017 committee attendance
+        as mp</h3>\n                    \n                  </header>\n                  \n
+        \                   <p class=\"attendance__percentage\">31% attendance rate</p>\n
+        \                   <p class=\"attendance__context\">Attended 31 meetings
+        out of 101</p>\n                  \n                \n                  <header>\n
+        \                   <h3 class=\"attendance__heading\">2016 committee attendance
+        as mp</h3>\n                    \n                  </header>\n                  \n
+        \                   <p class=\"attendance__percentage\">32% attendance rate</p>\n
+        \                   <p class=\"attendance__context\">Attended 35 meetings
+        out of 108</p>\n                  \n                \n                  <header>\n
+        \                   <h3 class=\"attendance__heading\">2015 committee attendance
+        as mp</h3>\n                    \n                  </header>\n                  \n
+        \                   <p class=\"attendance__percentage\">29% attendance rate</p>\n
+        \                   <p class=\"attendance__context\">Attended 28 meetings
+        out of 95</p>\n                  \n                \n                  <header>\n
+        \                   <h3 class=\"attendance__heading\">2014 committee attendance
+        as mp</h3>\n                    <p>(From the start of the Fifth Parliament)</p>\n
+        \                 </header>\n                  \n                    <p class=\"attendance__percentage\">45%
+        attendance rate</p>\n                    <p class=\"attendance__context\">Attended
+        9 meetings out of 20</p>\n                  \n                \n\n                <ul
+        class=\"attendance__notes\">\n                  <li>Attendance records reflect
+        Committee not Plenary Attendance</li>\n                  <li>Minister/Deputy
+        Minister attendance is not compulsory.</li>\n                  <li>MP attendance
+        is compulsory unless an apology is given</li>\n                  <li>MPs are
+        recorded as absent whether they have, or have not submitted apologies.</li>\n
+        \                 <li>This is not the official committee attendance record
+        of Parliament.</li>\n                  <li>Plenary Attendance is not made
+        public by Parliament although it has been requested.</li>\n                </ul>\n
+        \             </div>\n\n              \n                <div class=\"column\">\n
+        \                 <h3>Recent meetings attended</h3>\n                  <ul
+        class=\"unstyled attendance__recently-attended\">\n                    \n
+        \                     <li><span class=\"committee-name\">Police &mdash; </span>
+        <a href=\"https://pmg.org.za/committee-meeting/25303/\"><span class=\"meeting-title\">Crime
+        Statistics 2016/17: SAPS briefing</span></a> &mdash; <span class=\"meeting-date\">24
+        Oct 2017</span></li>\n                    \n                      <li><span
+        class=\"committee-name\">Police &mdash; </span> <a href=\"https://pmg.org.za/committee-meeting/25267/\"><span
+        class=\"meeting-title\">PSIRA 2016/17 Annual Report &amp; Quarter 1 performance</span></a>
+        &mdash; <span class=\"meeting-date\">18 Oct 2017</span></li>\n                    \n
+        \                     <li><span class=\"committee-name\">Public Service and
+        Administration, Performance Monitoring and Evaluation &mdash; </span> <a href=\"https://pmg.org.za/committee-meeting/25239/\"><span
+        class=\"meeting-title\">DPSA; DPME &amp; NYDA; Stats SA Budgetary Review and
+        Recommendations Report</span></a> &mdash; <span class=\"meeting-date\">17
+        Oct 2017</span></li>\n                    \n                      <li><span
+        class=\"committee-name\">Higher Education and Training &mdash; </span> <a
+        href=\"https://pmg.org.za/committee-meeting/25210/\"><span class=\"meeting-title\">Higher
+        Education and Training Budgetary Review and Recommendations Report</span></a>
+        &mdash; <span class=\"meeting-date\">11 Oct 2017</span></li>\n                    \n
+        \                     <li><span class=\"committee-name\">Justice and Correctional
+        Services &mdash; </span> <a href=\"https://pmg.org.za/committee-meeting/25215/\"><span
+        class=\"meeting-title\">SIU &amp; Legal Aid SA Annual Report; Suspension of
+        Magistrates; International Arbitration Bill, with Deputy Minister</span></a>
+        &mdash; <span class=\"meeting-date\">11 Oct 2017</span></li>\n                    \n
+        \                 </ul>\n                  <p><a href=\"/person/christian-themba-msimang/attendances/\">All
+        meetings attended</a></p>\n                </div>\n              \n\n            \n\n
+        \         </div>\n          <p class=\"attendance__disclaimer\">DISCLAIMER:
+        This information has been obtained via the Parliamentary Monitoring Group.
+        PMG makes every effort to compile reliable and comprehensive information,
+        but does not claim that the data is 100% accurate and complete.\n          </p>\n
+        \       </div> <!-- .attendance -->\n      \n\n      \n        <div id=\"experience\"
+        class=\"tab-content ui-tabs-panel ui-widget-content\">\n          <div class=\"person-experience\">\n
+        \           <h3>Currently</h3>\n              <ul class=\"current-positions
+        positions\">\n                \n                  \n                    <li>\n\n\n
+        \ Member\n    \n      \n        at <a href=\"/organisation/ifp/\">Inkatha
+        Freedom Party (IFP) (Party)</a>\n      \n    \n\n\n                      \n
+        \                   </li>\n                  \n                \n              </ul>\n\n
+        \           <h3>Formerly</h3>\n            <ul class=\"former-positions positions\">\n
+        \             \n                \n                  <li>\n\n\n  Member\n    \n
+        \     \n        at <a href=\"/organisation/portfolio-committee-on-police/\">Portfolio
+        Committee on Police (National Assembly Committees)</a>\n      \n    \n\n\n
+        \                   \n                      from 13th July 2017\n                    \n
+        \                   until 1st November 2017\n                  </li>\n                \n
+        \                 <li>\n\n\n  Alternate Member\n    \n      \n        at <a
+        href=\"/organisation/portfolio-committee-public-service-and-administration-well-performance-monitoring-and-evaluation/\">Portfolio
+        Committee on Public Service and Administration, as well as Performance Monitoring
+        and Evaluation (National Assembly Committees)</a>\n      \n    \n\n\n                    \n
+        \                     from 13th July 2017\n                    \n                    until
+        1st November 2017\n                  </li>\n                \n                  <li>\n\n\n
+        \ Member\n    \n      \n        at <a href=\"/organisation/ad-hoc-committee-nominate-person-appointment-public-protector/\">Ad
+        Hoc Committee to nominate a person for appointment of Public Protector (Ad
+        Hoc Committees)</a>\n      \n    \n\n\n                    \n                      from
+        26th May 2016\n                    \n                    until 1st November
+        2017\n                  </li>\n                \n                  <li>\n\n\n
+        \ Member\n    \n      \n        at <a href=\"/organisation/basic-education/\">Portfolio
+        Committee on Basic Education (Committee)</a>\n      \n    \n\n\n                    \n
+        \                     from 17th September 2015\n                    \n                    until
+        1st November 2017\n                  </li>\n                \n                  <li>\n\n\n
+        \ Alternate Member\n    \n      \n        at <a href=\"/organisation/portfolio-committee-on-higher-education-and-training/\">Portfolio
+        Committee on Higher Education and Training (National Assembly Committees)</a>\n
+        \     \n    \n\n\n                    \n                      from 17th September
+        2015\n                    \n                    until 1st November 2017\n
+        \                 </li>\n                \n                  <li>\n\n\n  Alternate
+        Member\n    \n      \n        at <a href=\"/organisation/constitutional-review-committee/\">Constitutional
+        Review Committee (Joint Committees)</a>\n      \n    \n\n\n                    \n
+        \                     from 16th March 2015\n                    \n                    until
+        1st November 2017\n                  </li>\n                \n                  <li>\n\n\n
+        \ Member\n    \n      \n        at <a href=\"/organisation/rules-of-the-national-assembly/\">Rules
+        of the National Assembly (National Assembly Committees)</a>\n      \n    \n\n\n
+        \                   \n                      from 14th October 2014\n                    \n
+        \                   until 1st November 2017\n                  </li>\n                \n
+        \                 <li>\n\n\n  Member\n    \n      \n        at <a href=\"/organisation/national-assembly/\">National
+        Assembly (Parliament)</a>\n      \n    \n\n\n                    \n                      from
+        23rd August 2014\n                    \n                    until 1st November
+        2017\n                  </li>\n                \n                  <li>\n\n\n
+        \ Member\n    \n      \n        at <a href=\"/organisation/justice-and-constitutional-development/\">Portfolio
+        Committee on Justice and Constitutional Development (Committee)</a>\n      \n
+        \   \n\n\n                    \n                      from June 2014\n                    \n
+        \                   until 1st November 2017\n                  </li>\n                \n
+        \                 <li>\n\n\n  Member\n    \n      \n        at <a href=\"/organisation/portfolio-committee-on-trade-and-industry/\">Portfolio
+        Committee On Trade and Industry (National Assembly Committees)</a>\n      \n
+        \   \n\n\n                    \n                      from June 2014\n                    \n
+        \                   until 17th September 2015\n                  </li>\n                \n
+        \                 <li>\n\n\n  6th Candidate\n    \n      \n        \n          \n
+        \           at <a href=\"/election/2014/national/party/ifp/\">Inkatha Freedom
+        Party National Election List 2014 (Election List)</a>\n          \n        \n
+        \     \n    \n\n\n                    \n                      from 22nd April
+        2014\n                    \n                    until 7th May 2014\n                  </li>\n
+        \               \n                  <li>\n\n\n  Member\n    \n      \n        at
+        <a href=\"/organisation/national-assembly/\">National Assembly (Parliament)</a>\n
+        \     \n    \n\n\n                    \n                      from 6th May
+        2009\n                    \n                    until 6th May 2014\n                  </li>\n
+        \               \n                  <li>\n\n\n  Alternate Member\n    \n      \n
+        \       at <a href=\"/organisation/ad-hoc-committee-on-general-intelligence-laws-amendment-bill-na/\">Ad
+        Hoc Committee on General Intelligence Laws Amendment Bill (NA) (Ad Hoc Committees)</a>\n
+        \     \n    \n\n\n                    \n                    until 6th May
+        2014\n                  </li>\n                \n                  <li>\n\n\n
+        \ Alternate Member\n    \n      \n        at <a href=\"/organisation/agriculture-forestry-and-fisheries/\">Portfolio
+        Committee on Agriculture, Forestry and Fisheries (Committee)</a>\n      \n
+        \   \n\n\n                    \n                    until 6th May 2014\n                  </li>\n
+        \               \n                  <li>\n\n\n  Alternate Member\n    \n      \n
+        \       at <a href=\"/organisation/ad-hoc-committee-on-coordinated-oversight-on-service-delivery/\">Ad
+        Hoc Committee on Coordinated Oversight on Service Delivery (Ad Hoc Committees)</a>\n
+        \     \n    \n\n\n                    \n                    until 6th May
+        2014\n                  </li>\n                \n                  <li>\n\n\n
+        \ Alternate Member\n    \n      \n        at <a href=\"/organisation/rural-development-and-land-reform/\">Portfolio
+        Committee on Rural Development and Land Reform (National Assembly Committees)</a>\n
+        \     \n    \n\n\n                    \n                    until 6th May
+        2014\n                  </li>\n                \n                  <li>\n\n\n
+        \ Alternate Member\n    \n      \n        at <a href=\"/organisation/public-service-and-administration/\">Portfolio
+        Committee on Public Service and Administration (National Assembly Committees)</a>\n
+        \     \n    \n\n\n                    \n                    until 6th May
+        2014\n                  </li>\n                \n                  <li>\n\n\n
+        \ Alternate Member\n    \n      \n        at <a href=\"/organisation/defence/\">Defence
+        (Joint Committees)</a>\n      \n    \n\n\n                    \n                    until
+        6th May 2014\n                  </li>\n                \n                  <li>\n\n\n
+        \ Alternate Member\n    \n      \n        at <a href=\"/organisation/joint-standing-on-intelligence/\">Joint
+        Standing on Intelligence (Joint Committees)</a>\n      \n    \n\n\n                    \n
+        \                   until 6th May 2014\n                  </li>\n                \n
+        \                 <li>\n\n\n  Alternate Member\n    \n      \n        at <a
+        href=\"/organisation/cooperative-governance-and-traditional-affairs/\">Portfolio
+        Committee on Cooperative Governance and Traditional Affairs (National Assembly
+        Committees)</a>\n      \n    \n\n\n                    \n                    until
+        6th May 2014\n                  </li>\n                \n              \n
+        \           </ul>\n          </div> <!-- .person-experience -->\n        </div>
+        <!-- #experience -->\n      \n\n      \n\n      \n        <div id=\"membersinterests\"
+        class=\"tab-content ui-tabs-panel ui-widget-content\">\n\n          <div class=\"person-interests\">\n\n
+        \           \n              <h3>Parliament Register of Members&#39; Interests
+        2016\n                <small><a href=\"https://www.parliament.gov.za/storage/app/media/PRandNews/content/Parliament_of_RSA_2016_Register.pdf\"
+        target=\"_blank\" title=\"Parliament Register of Members&#39; Interests 2016\">[Source]</a></small>\n
+        \             </h3>\n\n              \n                <h4>PENSIONS</h4>\n
+        \               <table>\n                  <tr>\n                    \n                      <th>Public/Private</th>\n
+        \                   \n                      <th>Source</th>\n                    \n
+        \                 </tr>\n                  \n                    <tr>\n                      \n
+        \                       <td>Private</td>\n                      \n                        <td>Sanlam</td>\n
+        \                     \n                    </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Public</td>\n                      \n
+        \                       <td>POBF</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Public</td>\n
+        \                     \n                        <td>POBF</td>\n                      \n
+        \                   </tr>\n                  \n                </table>\n
+        \             \n                <h4>SHARES AND OTHER FINANCIAL INTERESTS</h4>\n
+        \               <table>\n                  <tr>\n                    \n                      <th>Nature</th>\n
+        \                   \n                      <th>Name of Company</th>\n                    \n
+        \                     <th>No</th>\n                    \n                      <th>Nominal
+        Value</th>\n                    \n                  </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>Ordinary</td>\n
+        \                     \n                        <td>Phuthuma Nathi</td>\n
+        \                     \n                        <td>2 000</td>\n                      \n
+        \                       <td>R35 each</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Ordinary</td>\n
+        \                     \n                        <td>Bard Publishers</td>\n
+        \                     \n                        <td>2 000</td>\n                      \n
+        \                       <td>R10 each</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Ordinary</td>\n
+        \                     \n                        <td>Welkom Yizani</td>\n                      \n
+        \                       <td>430</td>\n                      \n                        <td>R100
+        each</td>\n                      \n                    </tr>\n                  \n
+        \               </table>\n              \n                <h4>DIRECTORSHIP
+        AND PARTNERSHIPS</h4>\n                <table>\n                  <tr>\n                    \n
+        \                     <th>Directorship/Partnership</th>\n                    \n
+        \                     <th>Type of Business</th>\n                    \n                  </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Amakhono
+        Leadership Institute NGO - Political training</td>\n                      \n
+        \                       <td></td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Zentec
+        trading as Umgeni Test Station</td>\n                      \n                        <td>Testing
+        motor vehicles</td>\n                      \n                    </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>Embali
+        Chicken Farm</td>\n                      \n                        <td>Trading
+        in poultry [Dormant]</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Thabizolo
+        Bakery</td>\n                      \n                        <td>Trading in
+        bakery [Dormant]</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Thabizolo
+        Promotions</td>\n                      \n                        <td>Events
+        promotion [Dormant]</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Nasou-Via
+        Afrika [Holding Co. for Van Schaik, Via Afrika Education, Collegium Education</td>\n
+        \                     \n                        <td>Education publishers</td>\n
+        \                     \n                    </tr>\n                  \n                </table>\n
+        \             \n                <h4>LAND AND PROPERTY</h4>\n                <table>\n
+        \                 <tr>\n                    \n                      <th>Location</th>\n
+        \                   \n                      <th>Extent</th>\n                    \n
+        \                     <th>Description</th>\n                    \n                  </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Ethalaneni
+        in Nkandla district in KZN</td>\n                      \n                        <td>Residential
+        - 2 acres&amp;#894; Commercial - 4 acres&amp;#894; Farming - 2 morgans</td>\n
+        \                     \n                        <td>Lander under Ngonyama
+        Trust [Commercial and residential]</td>\n                      \n                    </tr>\n
+        \                 \n                </table>\n              \n            \n
+        \             <h3>Parliament Register of Members&#39; Interests 2015\n                <small><a
+        href=\"https://sourceafrica.net/documents/21083-parliament-of-south-africa-register-of-members.html\"
+        target=\"_blank\" title=\"Parliament Register of Members&#39; Interests 2015\">[Source]</a></small>\n
+        \             </h3>\n\n              \n                <h4>PENSIONS</h4>\n
+        \               <table>\n                  <tr>\n                    \n                      <th>Public/Private</th>\n
+        \                   \n                      <th>Source</th>\n                    \n
+        \                 </tr>\n                  \n                    <tr>\n                      \n
+        \                       <td>Public</td>\n                      \n                        <td>POBF</td>\n
+        \                     \n                    </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Private</td>\n                      \n
+        \                       <td>Sanlam</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Private</td>\n
+        \                     \n                        <td>Old Mutual Living Annuity
+        x 2</td>\n                      \n                    </tr>\n                  \n
+        \               </table>\n              \n                <h4>SHARES AND OTHER
+        FINANCIAL INTERESTS</h4>\n                <table>\n                  <tr>\n
+        \                   \n                      <th>Nature</th>\n                    \n
+        \                     <th>Name of Company</th>\n                    \n                      <th>No</th>\n
+        \                   \n                      <th>Nominal Value</th>\n                    \n
+        \                 </tr>\n                  \n                    <tr>\n                      \n
+        \                       <td>Ordinary</td>\n                      \n                        <td>Phuthuma
+        Nathi</td>\n                      \n                        <td>2 000</td>\n
+        \                     \n                        <td>R35 each</td>\n                      \n
+        \                   </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Ordinary</td>\n                      \n
+        \                       <td>Bard Publishers</td>\n                      \n
+        \                       <td>2 000</td>\n                      \n                        <td>R10
+        each</td>\n                      \n                    </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>Ordinary</td>\n
+        \                     \n                        <td>Welkom Yizani</td>\n                      \n
+        \                       <td>430</td>\n                      \n                        <td>R100
+        each</td>\n                      \n                    </tr>\n                  \n
+        \               </table>\n              \n                <h4>DIRECTORSHIP
+        AND PARTNERSHIPS</h4>\n                <table>\n                  <tr>\n                    \n
+        \                     <th>Type of Business</th>\n                    \n                      <th>Directorship/Partnership</th>\n
+        \                   \n                  </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>NGO - Political training
+        institute</td>\n                      \n                        <td>Amakhono
+        [Leadership Institute]</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Testing
+        motor vehicles</td>\n                      \n                        <td>Zentec
+        trading as Umgeni Test Station</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>[Dormant]
+        trading in poultry</td>\n                      \n                        <td>Embali
+        Chicken Farm</td>\n                      \n                    </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>[Dormant]
+        Bakery</td>\n                      \n                        <td>Thabizolo
+        Bakery</td>\n                      \n                    </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>[Dormant]
+        - Events promotions</td>\n                      \n                        <td>Thabizolo
+        Promotions</td>\n                      \n                    </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>Book
+        publishers</td>\n                      \n                        <td>Nasou
+        Via Afrika [holding co. for Van Schaik&amp;#894; Via Afrika Education&amp;#894;
+        Collegium Education]</td>\n                      \n                    </tr>\n
+        \                 \n                </table>\n              \n                <h4>LAND
+        AND PROPERTY</h4>\n                <table>\n                  <tr>\n                    \n
+        \                     <th>Location</th>\n                    \n                      <th>Extent</th>\n
+        \                   \n                      <th>Description</th>\n                    \n
+        \                 </tr>\n                  \n                    <tr>\n                      \n
+        \                       <td>Ethalaneni in Nkandla, KZN</td>\n                      \n
+        \                       <td>Residential - 2 acres&amp;#894; Commercial - 4
+        acres&amp;#894; Farming - 2 morgans</td>\n                      \n                        <td>Land
+        under Ngonyama Trust [Commercial and residential]</td>\n                      \n
+        \                   </tr>\n                  \n                </table>\n
+        \             \n            \n              <h3>Parliament Register of Members&#39;
+        Interests 2013\n                <small><a href=\"https://sourceafrica.net/documents/21089-parliament-of-south-africa-register-of-members.html\"
+        target=\"_blank\" title=\"Parliament Register of Members&#39; Interests 2013\">[Source]</a></small>\n
+        \             </h3>\n\n              \n                <h4>PENSIONS</h4>\n
+        \               <table>\n                  <tr>\n                    \n                      <th>Source</th>\n
+        \                   \n                      <th>Public/Private</th>\n                    \n
+        \                 </tr>\n                  \n                    <tr>\n                      \n
+        \                       <td>ER pension POBF</td>\n                      \n
+        \                       <td></td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Sanlam</td>\n
+        \                     \n                        <td>Private</td>\n                      \n
+        \                   </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Old Mutual</td>\n                      \n
+        \                       <td>Private</td>\n                      \n                    </tr>\n
+        \                 \n                </table>\n              \n                <h4>SHARES
+        AND OTHER FINANCIAL INTERESTS</h4>\n                <table>\n                  <tr>\n
+        \                   \n                      <th>Nature</th>\n                    \n
+        \                     <th>Name of Company</th>\n                    \n                      <th>No</th>\n
+        \                   \n                      <th>Nominal Value</th>\n                    \n
+        \                 </tr>\n                  \n                    <tr>\n                      \n
+        \                       <td>Ordinary</td>\n                      \n                        <td>Puthuma
+        Nathi</td>\n                      \n                        <td>2 000</td>\n
+        \                     \n                        <td>R35 each</td>\n                      \n
+        \                   </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Ordinary</td>\n                      \n
+        \                       <td>Welkom Yizani</td>\n                      \n                        <td>430</td>\n
+        \                     \n                        <td>R100 each</td>\n                      \n
+        \                   </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Ordinary</td>\n                      \n
+        \                       <td>Bard Publishers</td>\n                      \n
+        \                       <td>2 000</td>\n                      \n                        <td>R10
+        each</td>\n                      \n                    </tr>\n                  \n
+        \               </table>\n              \n                <h4>DIRECTORSHIP
+        AND PARTNERSHIPS</h4>\n                <table>\n                  <tr>\n                    \n
+        \                     <th>Type of Business</th>\n                    \n                      <th>Directorship/Partnership</th>\n
+        \                   \n                  </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Book Publishers</td>\n
+        \                     \n                        <td>Nasou Via Afrika plus
+        subsidiaries such as JL van Schaik</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Baking</td>\n
+        \                     \n                        <td>Thabizolo Bakery [Dormant]</td>\n
+        \                     \n                    </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Trading in chickens</td>\n
+        \                     \n                        <td>Embali Chicken Farm [Dormant]</td>\n
+        \                     \n                    </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Events Co.</td>\n                      \n
+        \                       <td>Thabizolo Promotions [Dormant]</td>\n                      \n
+        \                   </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Providing courses in Political
+        Leadership</td>\n                      \n                        <td>Amakhono
+        Leadership Development Institute [NGO]</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Testing
+        motor cars</td>\n                      \n                        <td>Zentec
+        Trading 93CC trading as Umgeni Test Station</td>\n                      \n
+        \                   </tr>\n                  \n                </table>\n
+        \             \n                <h4>LAND AND PROPERTY</h4>\n                <table>\n
+        \                 <tr>\n                    \n                      <th>Location</th>\n
+        \                   \n                      <th>Extent</th>\n                    \n
+        \                     <th>Description</th>\n                    \n                  </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Nkandla
+        in Ethalaneni Area</td>\n                      \n                        <td>Residential
+        - 2 acres Farming - 2 morgans</td>\n                      \n                        <td>Land
+        under Ingonyama Trust Commercial plus occupational</td>\n                      \n
+        \                   </tr>\n                  \n                </table>\n
+        \             \n            \n              <h3>Parliament Register of Members&#39;
+        Interests 2012\n                <small><a href=\"https://sourceafrica.net/documents/21088-parliament-of-south-africa-register-of-members.html\"
+        target=\"_blank\" title=\"Parliament Register of Members&#39; Interests 2012\">[Source]</a></small>\n
+        \             </h3>\n\n              \n                <h4>PENSIONS</h4>\n
+        \               <table>\n                  <tr>\n                    \n                      <th>Public/Private</th>\n
+        \                   \n                      <th>Source</th>\n                    \n
+        \                 </tr>\n                  \n                    <tr>\n                      \n
+        \                       <td>Public</td>\n                      \n                        <td>ER
+        Pension POBF [not currantly receiving]</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Private</td>\n
+        \                     \n                        <td>Sanlam</td>\n                      \n
+        \                   </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Private</td>\n                      \n
+        \                       <td>Old Mutual</td>\n                      \n                    </tr>\n
+        \                 \n                </table>\n              \n                <h4>SHARES
+        AND OTHER FINANCIAL INTERESTS</h4>\n                <table>\n                  <tr>\n
+        \                   \n                      <th>Nature</th>\n                    \n
+        \                     <th>Name of Company</th>\n                    \n                      <th>No</th>\n
+        \                   \n                      <th>Nominal Value</th>\n                    \n
+        \                 </tr>\n                  \n                    <tr>\n                      \n
+        \                       <td>Ordinary</td>\n                      \n                        <td>Puthuma
+        Nathi</td>\n                      \n                        <td>2 000</td>\n
+        \                     \n                        <td>R35 each</td>\n                      \n
+        \                   </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Ordinary</td>\n                      \n
+        \                       <td>Welkom Yizani</td>\n                      \n                        <td>430</td>\n
+        \                     \n                        <td>R100 each</td>\n                      \n
+        \                   </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Ordinary</td>\n                      \n
+        \                       <td>Bard Publishers</td>\n                      \n
+        \                       <td>2 000</td>\n                      \n                        <td>R10
+        each</td>\n                      \n                    </tr>\n                  \n
+        \               </table>\n              \n                <h4>DIRECTORSHIP
+        AND PARTNERSHIPS</h4>\n                <table>\n                  <tr>\n                    \n
+        \                     <th>Type of Business</th>\n                    \n                      <th>Directorship/Partnership</th>\n
+        \                   \n                  </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Testing motor cars</td>\n
+        \                     \n                        <td>Zentec Trading 93CC trading
+        as Umgeni Test Station</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Book
+        Publishers</td>\n                      \n                        <td>Nasou
+        Via Afrika plus subsidiries JL van Schaik</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Baking</td>\n
+        \                     \n                        <td>Thabizolo Bakery [Dormant]</td>\n
+        \                     \n                    </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Trading in chickens</td>\n
+        \                     \n                        <td>Embali Chicken Farm [Dormant]</td>\n
+        \                     \n                    </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Events Co.</td>\n                      \n
+        \                       <td>Thabizolo Promotions [Dormant]</td>\n                      \n
+        \                   </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Providing courses in political
+        leadership</td>\n                      \n                        <td>Amakhono
+        Leadership Development Institute</td>\n                      \n                    </tr>\n
+        \                 \n                </table>\n              \n                <h4>LAND
+        AND PROPERTY</h4>\n                <table>\n                  <tr>\n                    \n
+        \                     <th>Location</th>\n                    \n                      <th>Extent</th>\n
+        \                   \n                      <th>Description</th>\n                    \n
+        \                 </tr>\n                  \n                    <tr>\n                      \n
+        \                       <td>Nkandla</td>\n                      \n                        <td>Residential
+        site = 2 Acres Fields = 2 morgans</td>\n                      \n                        <td>Land
+        under Ingonyama Trust commercial land ownership</td>\n                      \n
+        \                   </tr>\n                  \n                </table>\n
+        \             \n            \n              <h3>Parliament Register of Members&#39;
+        Interests 2011\n                <small><a href=\"https://sourceafrica.net/documents/21087-parliament-of-south-africa-register-of-members.html\"
+        target=\"_blank\" title=\"Parliament Register of Members&#39; Interests 2011\">[Source]</a></small>\n
+        \             </h3>\n\n              \n                <h4>PENSIONS</h4>\n
+        \               <table>\n                  <tr>\n                    \n                      <th>Public/Private</th>\n
+        \                   \n                      <th>Source</th>\n                    \n
+        \                 </tr>\n                  \n                    <tr>\n                      \n
+        \                       <td>Private</td>\n                      \n                        <td>Old
+        Mutual</td>\n                      \n                    </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>Private</td>\n
+        \                     \n                        <td>Sanlam</td>\n                      \n
+        \                   </tr>\n                  \n                </table>\n
+        \             \n                <h4>SHARES AND OTHER FINANCIAL INTERESTS</h4>\n
+        \               <table>\n                  <tr>\n                    \n                      <th>Nature</th>\n
+        \                   \n                      <th>Name of Company</th>\n                    \n
+        \                     <th>No</th>\n                    \n                      <th>Nominal
+        Value</th>\n                    \n                  </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>Ordinary</td>\n
+        \                     \n                        <td>Hibbard Publishers</td>\n
+        \                     \n                        <td>2 000</td>\n                      \n
+        \                       <td>R2 000</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td></td>\n
+        \                     \n                        <td>Zentec Trading 93CC</td>\n
+        \                     \n                        <td>50%</td>\n                      \n
+        \                       <td>R500 000</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>BEE</td>\n
+        \                     \n                        <td>Media 24</td>\n                      \n
+        \                       <td>1 000</td>\n                      \n                        <td>R20
+        000</td>\n                      \n                    </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>BEE</td>\n
+        \                     \n                        <td>Media 24</td>\n                      \n
+        \                       <td>234</td>\n                      \n                        <td>R4
+        684</td>\n                      \n                    </tr>\n                  \n
+        \               </table>\n              \n                <h4>DIRECTORSHIP
+        AND PARTNERSHIPS</h4>\n                <table>\n                  <tr>\n                    \n
+        \                     <th>Type of Business</th>\n                    \n                      <th>Directorship/Partnership</th>\n
+        \                   \n                  </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Course development</td>\n
+        \                     \n                        <td>Amakhono Leadership Institute</td>\n
+        \                     \n                    </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>NGO offering Zulu communication
+        courses</td>\n                      \n                        <td>Funda Njalo</td>\n
+        \                     \n                    </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Baking Co. [Dormant]</td>\n
+        \                     \n                        <td>Phumelela Bakery</td>\n
+        \                     \n                    </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Chicken farming [Dormant]</td>\n
+        \                     \n                        <td>Embali chicken Farm</td>\n
+        \                     \n                    </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Promoting various grocery
+        items [Dormant]</td>\n                      \n                        <td>Thabizolo
+        Promotions</td>\n                      \n                    </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>Disbanded</td>\n
+        \                     \n                        <td>Joseph&#39;s Car Test
+        Station</td>\n                      \n                    </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>Via
+        Afrika International 9ie Pollination Collegium and Mwajionera]</td>\n                      \n
+        \                       <td>NEG</td>\n                      \n                    </tr>\n
+        \                 \n                </table>\n              \n                <h4>LAND
+        AND PROPERTY</h4>\n                <table>\n                  <tr>\n                    \n
+        \                     <th>Location</th>\n                    \n                      <th>Extent</th>\n
+        \                   \n                      <th>Description</th>\n                    \n
+        \                 </tr>\n                  \n                    <tr>\n                      \n
+        \                       <td>Nkandla</td>\n                      \n                        <td>owned
+        land</td>\n                      \n                        <td>House</td>\n
+        \                     \n                    </tr>\n                  \n                </table>\n
+        \             \n            \n              <h3>Parliament Register of Members&#39;
+        Interests 2010\n                <small><a href=\"https://sourceafrica.net/documents/21086-parliament-of-south-africa-register-of-members.html\"
+        target=\"_blank\" title=\"Parliament Register of Members&#39; Interests 2010\">[Source]</a></small>\n
+        \             </h3>\n\n              \n                <h4>PENSIONS</h4>\n
+        \               <table>\n                  <tr>\n                    \n                      <th>Public/Private</th>\n
+        \                   \n                      <th>Source</th>\n                    \n
+        \                 </tr>\n                  \n                    <tr>\n                      \n
+        \                       <td>Private</td>\n                      \n                        <td>Old
+        Mutual</td>\n                      \n                    </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>Private</td>\n
+        \                     \n                        <td>Sanlam</td>\n                      \n
+        \                   </tr>\n                  \n                </table>\n
+        \             \n                <h4>SHARES AND OTHER FINANCIAL INTERESTS</h4>\n
+        \               <table>\n                  <tr>\n                    \n                      <th>Nature</th>\n
+        \                   \n                      <th>Name of Company</th>\n                    \n
+        \                     <th>No</th>\n                    \n                      <th>Nominal
+        Value</th>\n                    \n                  </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>Phuthuma
+        - BEE</td>\n                      \n                        <td>Media 24</td>\n
+        \                     \n                        <td>1000</td>\n                      \n
+        \                       <td>R20,000</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Yizani
+        - BEE</td>\n                      \n                        <td>Media 24</td>\n
+        \                     \n                        <td>234</td>\n                      \n
+        \                       <td>R4,680</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Ordinary</td>\n
+        \                     \n                        <td>Hibrard Publishers</td>\n
+        \                     \n                        <td>2000</td>\n                      \n
+        \                       <td>R2,000</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Eyethu-BEE</td>\n
+        \                     \n                        <td>Nedbank</td>\n                      \n
+        \                       <td>208</td>\n                      \n                        <td>R18,000</td>\n
+        \                     \n                    </tr>\n                  \n                </table>\n
+        \             \n                <h4>DIRECTORSHIP AND PARTNERSHIPS</h4>\n                <table>\n
+        \                 <tr>\n                    \n                      <th>Type
+        of Business</th>\n                    \n                      <th>Directorship/Partnership</th>\n
+        \                   \n                  </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Subsidiary of Media 24/Naspers
+        Under NEG: Via Africa Ltd; JL Van Schaik Publishers, Nasou-Via Afrika, Stimela,
+        Idem Smile. Under Via Africa International: Pollination, Collegium and Majiwanero</td>\n
+        \                     \n                        <td>NEG</td>\n                      \n
+        \                   </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Motor-vehicle testing
+        station</td>\n                      \n                        <td>Joseph&#39;s
+        Car Test Station</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Course
+        development</td>\n                      \n                        <td>Amakhono
+        Leadership Institute</td>\n                      \n                    </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>Reserved
+        the name Company not registered</td>\n                      \n                        <td>Thabizolo
+        Promotions</td>\n                      \n                    </tr>\n                  \n
+        \                   <tr>\n                      \n                        <td>Dormant</td>\n
+        \                     \n                        <td>Phumelela Bakery</td>\n
+        \                     \n                    </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>Dormant</td>\n                      \n
+        \                       <td>Embali Chicken Farm</td>\n                      \n
+        \                   </tr>\n                  \n                    <tr>\n
+        \                     \n                        <td>NGO offering Zulu communication
+        courses</td>\n                      \n                        <td>Funda Njalo</td>\n
+        \                     \n                    </tr>\n                  \n                </table>\n
+        \             \n                <h4>LAND AND PROPERTY</h4>\n                <table>\n
+        \                 <tr>\n                    \n                      <th>Location</th>\n
+        \                   \n                      <th>Extent</th>\n                    \n
+        \                     <th>Description</th>\n                    \n                  </tr>\n
+        \                 \n                    <tr>\n                      \n                        <td>C
+        ommunal land</td>\n                      \n                        <td>-</td>\n
+        \                     \n                        <td>House</td>\n                      \n
+        \                   </tr>\n                  \n                </table>\n
+        \             \n            \n\n          </div> <!-- .person-interests -->\n
+        \       </div> <!-- .membersinterests -->\n      \n\n      \n        <div
+        id=\"appearances\" class=\"tab-content ui-tabs-panel ui-widget-content\">\n
+        \         <section class=\"person-appearances\">\n            <h3>Committee
+        appearances</h3>\n\n            \n\n\n\n\n<ul class=\"unstyled speeches\">\n
+        \   \n    <li>\n        <p>\n            <span class=\"speech-title\">\n                <a
+        href=\"/committee-minutes/police/15-august-2017/anti-gang-strategy-for-western-cape-kwazulu-natal-#s87692647\">\n
+        \                   \n                        Anti-Gang Strategy for Western
+        Cape, KwaZulu-Natal &amp; Eastern Cape provinces: SAPS briefing;Illegal Fire-arms
+        unit: DPCI briefing\n                    \n                </a>\n            </span>\n
+        \           <span class=\"speech-date\">\n                15 Aug 2017\n            </span>\n
+        \       </p>\n        <div class=\"speech-text\">\n            Prof C Msimang
+        (IFP) asked if SAPS was winning the war on violent crime. He was aware that
+        the units in question are newly established and therefore do not have much
+        history but if the war is not being won then what needs to be done to change
+        this? He ...\n        </div>\n    </li>\n    \n    <li>\n        <p>\n            <span
+        class=\"speech-title\">\n                <a href=\"/committee-minutes/higher-education-and-training/20-june-2017/safety-and-security-sector-education-training-auth#s87695420\">\n
+        \                   \n                        Safety and Security Sector Education
+        &amp; Training Authority on its Annual Performance Plan; Involvement of Police
+        in Student Protests in Higher Education and Training Institutions: SAPS briefing;
+        University security: PSIRA briefing\n                    \n                </a>\n
+        \           </span>\n            <span class=\"speech-date\">\n                20
+        Jun 2017\n            </span>\n        </p>\n        <div class=\"speech-text\">\n
+        \           Prof C Msimang (IFP) asked SAPS whether they considered the services
+        they rendered during the protests to have been effective considering the fact
+        that the state suffered damages in excess of R1 billion.\n        </div>\n
+        \   </li>\n    \n    <li>\n        <p>\n            <span class=\"speech-title\">\n
+        \               <a href=\"/committee-minutes/basic-education/30-may-2017/inclusive-education-and-special-education-dbe-prog#s87658942\">\n
+        \                   \n                        Inclusive Education and Special
+        Education: DBE progress report\n                    \n                </a>\n
+        \           </span>\n            <span class=\"speech-date\">\n                30
+        May 2017\n            </span>\n        </p>\n        <div class=\"speech-text\">\n
+        \           Prof T Msimang (IFP) said that he is not sure of what needs to
+        prioritised going forward: more inclusive schools or more special schools,
+        taking into account the training of teachers.\n        </div>\n    </li>\n
+        \   \n    <li>\n        <p>\n            <span class=\"speech-title\">\n                <a
+        href=\"/committee-minutes/higher-education-and-training/03-may-2017/dhet-annual-performance-plan-ffc-tvet-colleges-gov#s87693683\">\n
+        \                   \n                        DHET Annual Performance Plan:
+        FFC &amp; TVET Colleges Governors Council input; NSFAS Student Centred Model\n
+        \                   \n                </a>\n            </span>\n            <span
+        class=\"speech-date\">\n                3 May 2017\n            </span>\n
+        \       </p>\n        <div class=\"speech-text\">\n            Prof C Msimang
+        (IFP) said he was worried because in the previous financial year, about R300
+        million had been returned to Treasury by the DHET. In addition, this financial
+        year would see R200 million sent back to Treasury. This money could have been
+        used to finance the TVET infrastructure issues ...\n        </div>\n    </li>\n
+        \   \n    <li>\n        <p>\n            <span class=\"speech-title\">\n                <a
+        href=\"/committee-minutes/basic-education/02-may-2017/department-of-basic-education-on-its-quarter-3-per#s87787799\">\n
+        \                   \n                        Department of Basic Education
+        on its Quarter 3 performance\n                    \n                </a>\n
+        \           </span>\n            <span class=\"speech-date\">\n                2
+        May 2017\n            </span>\n        </p>\n        <div class=\"speech-text\">\n
+        \           Professor C Msimang (IFP) commented that the best results were
+        achieved by schools in urban settings, while the worst results were recorded
+        at rural schools. He raised concern at the perceived bias toward urban schools,
+        and wanted to know how the Department would level the playing field. Many
+        schools, particularly ...\n        </div>\n    </li>\n    \n</ul>\n\n\n            \n
+        \             <p><a href=\"/person/christian-themba-msimang/appearances/committee\">All
+        Committee Appearances</a></p>\n            \n          </section>\n\n          <section
+        class=\"person-appearances\">\n            <h3>Questions</h3>\n\n            \n\n\n\n\n<ul
+        class=\"unstyled speeches\">\n    \n    <li>\n        <p>\n            <span
+        class=\"speech-title\">\n                <a href=\"/questions/questions-asked-to-the-minister-of-higher-educatio/nw29e-11-february-2016#s19861861\">\n
+        \                   \n                        Questions asked to the Minister
+        of Higher Education and Training\n                    \n                </a>\n
+        \           </span>\n            <span class=\"speech-date\">\n                11
+        Feb 2016\n            </span>\n        </p>\n        <div class=\"speech-text\">\n
+        \           Whether his Ministry has any frozen vacant positions; if so, (a)
+        how many of the specified positions are vacant, (b) what are the designations
+        of the specified positions and (c) for how long have the specified positions
+        been vacant?\n        </div>\n    </li>\n    \n    <li>\n        <p>\n            <span
+        class=\"speech-title\">\n                <a href=\"/questions/questions-asked-to-the-minister-of-justice-and-cor/nw28e-11-february-2016#s19861869\">\n
+        \                   \n                        Questions asked to the Minister
+        of Justice and Correctional Services\n                    \n                </a>\n
+        \           </span>\n            <span class=\"speech-date\">\n                11
+        Feb 2016\n            </span>\n        </p>\n        <div class=\"speech-text\">\n
+        \           Whether his Ministry has any frozen vacant positions; if so, (a)
+        how many of the specified positions are vacant, (b) what are the designations
+        of the specified positions and (c) for how long have the specified positions
+        been vacant?\n        </div>\n    </li>\n    \n    <li>\n        <p>\n            <span
+        class=\"speech-title\">\n                <a href=\"/questions/questions-asked-to-the-minister-of-basic-education/nw12e-11-february-2016#s19861843\">\n
+        \                   \n                        Questions asked to the Minister
+        of Basic Education\n                    \n                </a>\n            </span>\n
+        \           <span class=\"speech-date\">\n                11 Feb 2016\n            </span>\n
+        \       </p>\n        <div class=\"speech-text\">\n            (1) How many
+        students have registered to write supplementary exams in each province; (2)
+        are there any measures in place to assist these students in order to pass
+        the specified exams; if not, why not; if so, what are those measures?\n        </div>\n
+        \   </li>\n    \n</ul>\n\n\n            \n              <p><a href=\"/person/christian-themba-msimang/appearances/question\">All
+        Questions and Answers</a></p>\n            \n          </section>\n\n          <section
+        class=\"person-appearances\">\n            <h3>Plenary appearances</h3>\n\n
+        \           \n\n\n\n\n<ul class=\"unstyled speeches\">\n    \n    <li>\n        <p>\n
+        \           <span class=\"speech-title\">\n                <a href=\"/hansard/2015/march/04/proceedings-of-the-national-assembly-wednesday-04-/notices-of-motion#s21273924\">\n
+        \                   \n                        NOTICES OF MOTION\n                    \n
+        \               </a>\n            </span>\n            <span class=\"speech-date\">\n
+        \               4 Mar 2015\n            </span>\n        </p>\n        <div
+        class=\"speech-text\">\n            <p>House Chair, I hereby give notice that
+        on the next sitting day of the House I shall move on behalf of the IFP:</p><p>That
+        the House debates the need to increase the capacity of fire-fighters and other
+        emergency services personnel, so that they are able to deal with emergencies
+        effectively.</p>\n        </div>\n    </li>\n    \n    <li>\n        <p>\n
+        \           <span class=\"speech-title\">\n                <a href=\"/hansard/2015/march/04/proceedings-of-the-national-assembly-wednesday-04-/no412e#s21273814\">\n
+        \                   \n                        NO412E\n                    \n
+        \               </a>\n            </span>\n            <span class=\"speech-date\">\n
+        \               4 Mar 2015\n            </span>\n        </p>\n        <div
+        class=\"speech-text\">\n            <p>Madam Chair, we do appreciate the strategies
+        by government to help reintegrate ex-offenders. Our observation, however,
+        is that on the ground there are certain communities which are still reluctant
+        to rehabilitate ex-offenders. The question is: Can these ex-offenders have
+        recourse to the government? In other words, will they receive any ...</p>\n
+        \       </div>\n    </li>\n    \n</ul>\n\n\n            \n              <p><a
+        href=\"/person/christian-themba-msimang/appearances/hansard\">All Plenary
+        Appearances</a></p>\n            \n          </section>\n        </div>\n
+        \     \n\n    </div> <!-- tabs -->\n    \n\n    \n\n    </div>\n\n        \n\n
+        \       <br clear=\"both\">\n        \n        <a class=\"feedback-button
+        button feedback_link\" href=\"/feedback/?url=http://www.pa.org.za/person/christian-themba-msimang/\">Correct
+        this page</a>\n        \n    </div>\n  \n\n</div>\n\n\n        <footer id=\"site-footer\">\n
+        \           <div class=\"wrapper\">\n                \n<div class=\"footer-section\">\n
+        \   <h4>Sign up to our mailing list</h4>\n<div class=\"email-signup\">\n\n
+        \   <form method=\"post\" action=\"https://mail4.marketingautomation.services/prospector/thanks/MzawMDE2MrUwBwA/f224712b-064b-4d8f-8aa8-c4f3ebf691e8\"
+        id=\"form_f224712b-064b-4d8f-8aa8-c4f3ebf691e8\" enctype=\"multipart/form-data\"
+        target=\"_blank\">\n          <label for=\"field_350159876\" class=\"visuallyhidden\">Email</label>\n
+        \         <input type=\"email\" name=\"field_350159876\" value=\"\" id=\"350159876\"
+        maxlength=\"255\" class=\"required email\" placeholder=\"Your email\">\n          <input
+        type=\"hidden\" name=\"formid__sb\" value=\"f224712b-064b-4d8f-8aa8-c4f3ebf691e8\"
+        />\n          <input type=\"hidden\" name=\"companyprofileid__sb\" value=\"MzawMDE2MrUwBwA\"
+        />\n\n          <button id=\"submit_button\" type=\"submit\" name=\"submit__sb\"
+        class=\"button mailing-list-button\">Sign up </button>\n    </form>\n</div>\n\n\n
+        \   <h4>Follow us</h4>\n    <ul class=\"social-links-list\">\n        <li><a
+        href=\"https://mail4.marketingautomation.services/prospector/form/MzawMDE2MrUwBwA/SzMyMjE3NErSNTAzSdI1SbFI07VITLTQTTZJM05NSjOzNEy1AAA\"
+        class=\"email-social-icon\">Email</a></li>\n        <li><a href=\"https://www.facebook.com/peoplesassemblysa\"
+        class=\"facebook-social-icon\">Facebook</a></li>\n        <li><a href=\"https://twitter.com/PeoplesAssem_SA\"
+        class=\"twitter-social-icon\">Twitter</a></li>\n        <!--<li><a href=\"#\"
+        class=\"youtube-social-icon\">YouTube</a></li>\n        <li><a href=\"#\"
+        class=\"rss-social-icon\">RSS</a></li> -->\n    </ul>\n</div>\n<div id=\"footer-menu\"
+        class=\"footer-section\">\n    <h4>Sitemap</h4>\n    <ul class=\"nav\">\n
+        \       \n            \n\n<li><a href=\"/\" role=\"menuitem\">Home</a></li>\n\n<li><a
+        href=\"/search/location/\" role=\"menuitem\">Rep Locator</a></li>\n\n<li>\n
+        \ <a href=\"/person/all/\" class=\"has-dropdown\" role=\"menuitem\" aria-haspopup=\"true\">People</a>\n
+        \ \n    <ul id=\"parliament-overview\" class=\"js-hover-dropdown\" role=\"menu\">\n
+        \     <li><a href=\"/search/?section=persons\" role=\"menuitem\">Find by name</a></li>\n
+        \     <li><a href=\"/organisation/is/parliament/\" role=\"menuitem\">Parliament</a>\n
+        \       <ul>\n          <li><a href=\"/organisation/national-assembly/\" role=\"menuitem\">National
+        Assembly</a></li>\n          <li><a href=\"/organisation/ncop/\" role=\"menuitem\">National
+        Council of Provinces</a></li>\n        </ul>\n      </li>\n      <li><a href=\"/place/is/province/\"
+        role=\"menuitem\">Provinces</a>\n        <ul id=\"provinces-overview\">\n
+        \         <li><a href=\"/place/eastern-cape/\" role=\"menuitem\">Eastern Cape</a></li>\n
+        \         <li><a href=\"/place/free-state/\" role=\"menuitem\">Free State</a></li>\n
+        \         <li><a href=\"/place/gauteng/\" role=\"menuitem\">Gauteng</a></li>\n
+        \         <li><a href=\"/place/kwazulu-natal/\" role=\"menuitem\">KwaZulu-Natal</a></li>\n
+        \         <li><a href=\"/place/limpopo/\" role=\"menuitem\">Limpopo</a></li>\n
+        \         <li><a href=\"/place/mpumalanga/\" role=\"menuitem\">Mpumalanga</a></li>\n
+        \         <li><a href=\"/place/northern-cape/\" role=\"menuitem\">Northern
+        Cape</a></li>\n          <li><a href=\"/place/north-west/\" role=\"menuitem\">North
+        West</a></li>\n          <li><a href=\"/place/western-cape/\" role=\"menuitem\">Western
+        Cape</a></li>\n        </ul>\n      </li>\n    </ul>\n  \n</li>\n\n<li>\n
+        \ <a href=\"/blog/\" class=\"has-dropdown\" role=\"menuitem\" aria-haspopup=\"true\">Blog</a>\n
+        \ \n    <ul id=\"blog-overview\" class=\"js-hover-dropdown\" role=\"menu\">\n
+        \     <li><a href=\"/blog/category/week-parliament\" role=\"menuitem\">That
+        Week In Parliament</a></li>\n      <li><a href=\"/blog/category/commentary\"
+        role=\"menuitem\">Commentary</a></li>\n    </ul>\n  \n</li>\n\n<li><a href=\"/position/member/parliament/?order=name&amp;a=1\"
+        role=\"menuitem\">MP Profiles</a></li>\n<li><a href=\"/mp-attendance/\" role=\"menuitem\">MP
+        Attendance</a></li>\n<li>\n  <a href=\"/info/public-participation\" class=\"has-dropdown\"
+        role=\"menuitem\" aria-haspopup=\"true\">Public Participation</a>\n  \n    <ul
+        id=\"extras-overview\" class=\"js-hover-dropdown\" role=\"menu\">\n      <li><a
+        href=\"/info/make-yourself-heard\" role=\"menuitem\">Make yourself heard</a></li>\n
+        \     <li>\n        <a href=\"/info/elections\" role=\"menuitem\">Elections</a>\n
+        \       <ul>\n          <li><a href=\"/election/2014/\" role=\"menuitem\">Election
+        2014 Candidates</a></li>\n        </ul>\n      </li>\n      <li><a href=\"/info/petitions\"
+        role=\"menuitem\">Petitions</a></li>\n      <li><a href=\"/committees/\" role=\"menuitem\">National
+        Assembly Committees</a></li>\n    </ul>\n  \n</li>\n\n<li>\n  <a href=\"/info/hot-topics\"
+        class=\"has-dropdown\" role=\"menuitem\" aria-haspopup=\"true\">Hot Topics</a>\n
+        \ \n    <ul id=\"extras-overview\" class=\"js-hover-dropdown\" role=\"menu\">\n
+        \     <li><a href=\"/question\" role=\"menuitem\">Questions</a></li>\n      <li><a
+        href=\"/interests/\" role=\"menuitem\">MP Assets</a></li>\n      <li><a href=\"/blog/category/mp-corner\"
+        role=\"menuitem\">MP Corner</a></li>\n      <li><a href=\"/info/infographics\"
+        role=\"menuitem\">Infographics</a></li>\n    </ul>\n  \n</li>\n\n\n<li class=\"header-search\"
+        role=\"search\">\n  <form action=\"/search/\" method=\"get\" id=\"header-search\">\n
+        \     <input class=\"search-autocomplete-name\" type=\"text\" name=\"q\" placeholder=\"Search
+        pa.org.za\" />\n      <button type=\"submit\">Submit</button>\n  </form>\n</li>\n\n\n
+        \       \n\n        <li><a href=\"/info/links\">Links</a></li>\n        \n
+        \       <li><a href=\"/help/api\">Get the data</a>\n        \n    </ul>\n</div>\n<div
+        class=\"footer-section vcard contact-details\">\n    <h4>Contact us</h4>\n
+        \   <h5 class=\"fn org\">People's Assembly</h5>\n    <div class=\"col-one\">\n
+        \       <a href=\"mailto:contact@pa.org.za\" class=\"email block\">contact@pa.org.za</a>\n
+        \       <p class=\"block\">Tel: <span class=\"tel\">(021) 465 8885</span></p>\n
+        \       <p class=\"block\">Fax: (021) 465 8887</p>\n    </div>\n    <div class=\"adr
+        col-two\">\n        <div class=\"street-address block\">\n            <span
+        class=\"block\">2nd floor, Associated Magazines</span>\n            <span
+        class=\"block\">21 St Johns Street</span>\n        </div>\n        <div class=\"block\">\n
+        \           <span class=\"locality\">Cape Town</span>\n            <span class=\"postal-code\">8001</span>\n
+        \       </div>\n    </div>\n</div>\n\n<div class=\"footer-full-width\">\n
+        \   <div class=\"layout-major-minor thirds\">\n        <div class=\"disclaimer
+        major-column\">\n        <h4>Disclaimer</h4 >\n    <p>The data for this site
+        has been sourced form a range of organisations and websites and often received
+        in formats that are hard to process. As a result, errors can occur - if you
+        see something that you think is an error, please click on the \"Correct This
+        Page\" button and let us know so that we can investigate. Please <a href=\"/info/source-data\">click
+        here</a> to read more about our source data.</p>\n        </div>\n        <ul
+        class=\"utilities minor-column\">\n            <li><a href=\"/info/policies\">Privacy</a></li>\n
+        \           <li><a href=\"/feedback/?url=http://www.pa.org.za/person/christian-themba-msimang/\"
+        class=\"feedback_link\">Give us feedback</a></li>\n\n            \n\n            \n
+        \       </ul>\n    </div>\n</div>\n\n            </div>\n\n            <div
+        class=\"attribution\">\n\n              <p>This site runs on <a href=\"https://www.mysociety.org/projects/parliamentary-monitoring/pombola/\">open
+        source code</a> written by <a href=\"http://www.mysociety.org\">mySociety</a>.</p>\n\n
+        \             \n  \n  \n  \n  \n\n\n\n            </div>\n        </footer>\n\n
+        \       \n  \n          <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js\"></script>\n
+        \         <script src=\"//www.google.com/jsapi\"></script>\n          <script
+        type=\"text/javascript\" src=\"/static/js/base.8b114435d459.js\" charset=\"utf-8\"></script>\n
+        \         \n        \n  <script type=\"text/javascript\" src=\"/static/js/tabs.621b997db5cb.js\"
+        charset=\"utf-8\"></script>\n  <script type=\"text/javascript\" src=\"/static/js/person-messages-ajax.c6c77c6cca5a.js\"
+        charset=\"utf-8\"></script>\n\n\n        <div id=\"fb-root\"></div>\n    </body>\n</html>\n"
+    http_version: 
+  recorded_at: Tue, 10 Apr 2018 08:52:07 GMT
+recorded_with: VCR 3.0.3
