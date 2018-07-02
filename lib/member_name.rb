@@ -20,7 +20,7 @@ class MemberName < Scraped::HTML
 
   FEMALE_PREFIXES  = %w[mrs ms].freeze
   MALE_PREFIXES    = %w[mr prince].freeze
-  OTHER_PREFIXES   = %w[adv dr prof professor rev].freeze
+  OTHER_PREFIXES   = %w[adv dr minister prof professor rev].freeze
   PREFIXES         = FEMALE_PREFIXES + MALE_PREFIXES + OTHER_PREFIXES
 
   def partitioned
