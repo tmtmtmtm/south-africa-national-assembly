@@ -25,7 +25,20 @@ def member_data(url)
   scraper(url => MemberPage).to_h
 end
 
-data = members_data('https://www.pa.org.za/position/member/parliament/national-assembly/?session=na26')
+def scrape_for_term(term)
+  members_data("https://www.pa.org.za/position/member/parliament/national-assembly/?session=na#{term}")
+end
+
+def get_members_with_term(term)
+  scrape_for_term(term).map { |member| member.to_h.merge(term: term) }
+end
+
+data = []
+
+26.upto(27).each do |term|
+  data += get_members_with_term(term)
+end
+
 data.each { |mem| puts mem.reject { |_, v| v.to_s.empty? }.sort_by { |k, _| k }.to_h } if ENV['MORPH_DEBUG']
 
 ScraperWiki.sqliteexecute('DROP TABLE data') rescue nil

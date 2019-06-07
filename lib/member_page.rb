@@ -47,10 +47,6 @@ class MemberPage < Scraped::HTML
     sorted_email_list.join(' ; ')
   end
 
-  field :term do
-    '26'
-  end
-
   field :image do
     noko.css('.profile-pic img/@src').text
   end
